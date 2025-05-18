@@ -1,0 +1,602 @@
+[
+    {
+        "english": "book [male]",
+        "hebrew_spoken_singular": "livre",
+        "hebrew_spoken_plural": "livres",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "house [female]",
+        "hebrew_spoken_singular": "maison",
+        "hebrew_spoken_plural": "maisons",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "dog [male]",
+        "hebrew_spoken_singular": "chien",
+        "hebrew_spoken_plural": "chiens",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "cat [male]",
+        "hebrew_spoken_singular": "chat",
+        "hebrew_spoken_plural": "chats",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "car [female]",
+        "hebrew_spoken_singular": "voiture",
+        "hebrew_spoken_plural": "voitures",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "tree [male]",
+        "hebrew_spoken_singular": "arbre",
+        "hebrew_spoken_plural": "arbres",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "chair [female]",
+        "hebrew_spoken_singular": "chaise",
+        "hebrew_spoken_plural": "chaises",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "table [female]",
+        "hebrew_spoken_singular": "table",
+        "hebrew_spoken_plural": "tables",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "window [female]",
+        "hebrew_spoken_singular": "fenêtre",
+        "hebrew_spoken_plural": "fenêtres",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "door [female]",
+        "hebrew_spoken_singular": "porte",
+        "hebrew_spoken_plural": "portes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "child [male]",
+        "hebrew_spoken_singular": "enfant",
+        "hebrew_spoken_plural": "enfants",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "woman [female]",
+        "hebrew_spoken_singular": "femme",
+        "hebrew_spoken_plural": "femmes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "man [male]",
+        "hebrew_spoken_singular": "homme",
+        "hebrew_spoken_plural": "hommes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "water [female]",
+        "hebrew_spoken_singular": "eau",
+        "hebrew_spoken_plural": "eaux",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "bread [male]",
+        "hebrew_spoken_singular": "pain",
+        "hebrew_spoken_plural": "pains",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "apple [female]",
+        "hebrew_spoken_singular": "pomme",
+        "hebrew_spoken_plural": "pommes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "school [female]",
+        "hebrew_spoken_singular": "école",
+        "hebrew_spoken_plural": "écoles",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "teacher [male]",
+        "hebrew_spoken_singular": "professeur",
+        "hebrew_spoken_plural": "professeurs",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "student [male]",
+        "hebrew_spoken_singular": "étudiant",
+        "hebrew_spoken_plural": "étudiants",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "city [female]",
+        "hebrew_spoken_singular": "ville",
+        "hebrew_spoken_plural": "villes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "street [female]",
+        "hebrew_spoken_singular": "rue",
+        "hebrew_spoken_plural": "rues",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "flower [female]",
+        "hebrew_spoken_singular": "fleur",
+        "hebrew_spoken_plural": "fleurs",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "bird [male]",
+        "hebrew_spoken_singular": "oiseau",
+        "hebrew_spoken_plural": "oiseaux",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "computer [male]",
+        "hebrew_spoken_singular": "ordinateur",
+        "hebrew_spoken_plural": "ordinateurs",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "bookstore [female]",
+        "hebrew_spoken_singular": "librairie",
+        "hebrew_spoken_plural": "librairies",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "restaurant [male]",
+        "hebrew_spoken_singular": "restaurant",
+        "hebrew_spoken_plural": "restaurants",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "friend [male]",
+        "hebrew_spoken_singular": "ami",
+        "hebrew_spoken_plural": "amis",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "doctor [male]",
+        "hebrew_spoken_singular": "médecin",
+        "hebrew_spoken_plural": "médecins",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "nurse [female]",
+        "hebrew_spoken_singular": "infirmière",
+        "hebrew_spoken_plural": "infirmières",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "airplane [male]",
+        "hebrew_spoken_singular": "avion",
+        "hebrew_spoken_plural": "avions",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "bus [male]",
+        "hebrew_spoken_singular": "bus",
+        "hebrew_spoken_plural": "bus",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "train [male]",
+        "hebrew_spoken_singular": "train",
+        "hebrew_spoken_plural": "trains",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "fish [male]",
+        "hebrew_spoken_singular": "poisson",
+        "hebrew_spoken_plural": "poissons",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "shirt [female]",
+        "hebrew_spoken_singular": "chemise",
+        "hebrew_spoken_plural": "chemises",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "pants [male]",
+        "hebrew_spoken_singular": "pantalon",
+        "hebrew_spoken_plural": "pantalons",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "shoe [female]",
+        "hebrew_spoken_singular": "chaussure",
+        "hebrew_spoken_plural": "chaussures",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "hat [male]",
+        "hebrew_spoken_singular": "chapeau",
+        "hebrew_spoken_plural": "chapeaux",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "glasses [female plural]",
+        "hebrew_spoken_singular": "lunettes",
+        "hebrew_spoken_plural": "lunettes",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "watch [female]",
+        "hebrew_spoken_singular": "montre",
+        "hebrew_spoken_plural": "montres",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "key [female]",
+        "hebrew_spoken_singular": "clé",
+        "hebrew_spoken_plural": "clés",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "room [female]",
+        "hebrew_spoken_singular": "chambre",
+        "hebrew_spoken_plural": "chambres",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "kitchen [female]",
+        "hebrew_spoken_singular": "cuisine",
+        "hebrew_spoken_plural": "cuisines",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "bathroom [female]",
+        "hebrew_spoken_singular": "salle de bain",
+        "hebrew_spoken_plural": "salles de bain",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "bed [male]",
+        "hebrew_spoken_singular": "lit",
+        "hebrew_spoken_plural": "lits",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "lamp [female]",
+        "hebrew_spoken_singular": "lampe",
+        "hebrew_spoken_plural": "lampes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "picture [female]",
+        "hebrew_spoken_singular": "image",
+        "hebrew_spoken_plural": "images",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "wall [male]",
+        "hebrew_spoken_singular": "mur",
+        "hebrew_spoken_plural": "murs",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "floor [male]",
+        "hebrew_spoken_singular": "sol",
+        "hebrew_spoken_plural": "sols",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "ceiling [male]",
+        "hebrew_spoken_singular": "plafond",
+        "hebrew_spoken_plural": "plafonds",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "garden [male]",
+        "hebrew_spoken_singular": "jardin",
+        "hebrew_spoken_plural": "jardins",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "park [male]",
+        "hebrew_spoken_singular": "parc",
+        "hebrew_spoken_plural": "parcs",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "beach [female]",
+        "hebrew_spoken_singular": "plage",
+        "hebrew_spoken_plural": "plages",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "mountain [female]",
+        "hebrew_spoken_singular": "montagne",
+        "hebrew_spoken_plural": "montagnes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "river [female]",
+        "hebrew_spoken_singular": "rivière",
+        "hebrew_spoken_plural": "rivières",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "sea [female]",
+        "hebrew_spoken_singular": "mer",
+        "hebrew_spoken_plural": "mers",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "sky [male]",
+        "hebrew_spoken_singular": "ciel",
+        "hebrew_spoken_plural": "ciels/cieux",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "sun [male]",
+        "hebrew_spoken_singular": "soleil",
+        "hebrew_spoken_plural": "soleils",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "moon [female]",
+        "hebrew_spoken_singular": "lune",
+        "hebrew_spoken_plural": "lunes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "star [female]",
+        "hebrew_spoken_singular": "étoile",
+        "hebrew_spoken_plural": "étoiles",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "cloud [male]",
+        "hebrew_spoken_singular": "nuage",
+        "hebrew_spoken_plural": "nuages",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "fruit [male]",
+        "hebrew_spoken_singular": "fruit",
+        "hebrew_spoken_plural": "fruits",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "vegetable [male]",
+        "hebrew_spoken_singular": "légume",
+        "hebrew_spoken_plural": "légumes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "meat [female]",
+        "hebrew_spoken_singular": "viande",
+        "hebrew_spoken_plural": "viandes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "milk [male]",
+        "hebrew_spoken_singular": "lait",
+        "hebrew_spoken_plural": "laits",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "egg [male]",
+        "hebrew_spoken_singular": "œuf",
+        "hebrew_spoken_plural": "œufs",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "cheese [male]",
+        "hebrew_spoken_singular": "fromage",
+        "hebrew_spoken_plural": "fromages",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "soup [female]",
+        "hebrew_spoken_singular": "soupe",
+        "hebrew_spoken_plural": "soupes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "salad [female]",
+        "hebrew_spoken_singular": "salade",
+        "hebrew_spoken_plural": "salades",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "juice [male]",
+        "hebrew_spoken_singular": "jus",
+        "hebrew_spoken_plural": "jus",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "coffee [male]",
+        "hebrew_spoken_singular": "café",
+        "hebrew_spoken_plural": "cafés",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "restaurant [male]",
+        "hebrew_spoken_singular": "restaurant",
+        "hebrew_spoken_plural": "restaurants",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "store [male]",
+        "hebrew_spoken_singular": "magasin",
+        "hebrew_spoken_plural": "magasins",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "market [male]",
+        "hebrew_spoken_singular": "marché",
+        "hebrew_spoken_plural": "marchés",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "mall [male]",
+        "hebrew_spoken_singular": "centre commercial",
+        "hebrew_spoken_plural": "centres commerciaux",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "bank [female]",
+        "hebrew_spoken_singular": "banque",
+        "hebrew_spoken_plural": "banques",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "post office [male]",
+        "hebrew_spoken_singular": "bureau de poste",
+        "hebrew_spoken_plural": "bureaux de poste",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "hospital [male]",
+        "hebrew_spoken_singular": "hôpital",
+        "hebrew_spoken_plural": "hôpitaux",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "library [female]",
+        "hebrew_spoken_singular": "bibliothèque",
+        "hebrew_spoken_plural": "bibliothèques",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "museum [male]",
+        "hebrew_spoken_singular": "musée",
+        "hebrew_spoken_plural": "musées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "theater [male]",
+        "hebrew_spoken_singular": "théâtre",
+        "hebrew_spoken_plural": "théâtres",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "family [female]",
+        "hebrew_spoken_singular": "famille",
+        "hebrew_spoken_plural": "familles",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "mother [female]",
+        "hebrew_spoken_singular": "mère",
+        "hebrew_spoken_plural": "mères",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "father [male]",
+        "hebrew_spoken_singular": "père",
+        "hebrew_spoken_plural": "pères",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "sister [female]",
+        "hebrew_spoken_singular": "sœur",
+        "hebrew_spoken_plural": "sœurs",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "brother [male]",
+        "hebrew_spoken_singular": "frère",
+        "hebrew_spoken_plural": "frères",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "grandmother [female]",
+        "hebrew_spoken_singular": "grand-mère",
+        "hebrew_spoken_plural": "grand-mères",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "grandfather [male]",
+        "hebrew_spoken_singular": "grand-père",
+        "hebrew_spoken_plural": "grand-pères",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "aunt [female]",
+        "hebrew_spoken_singular": "tante",
+        "hebrew_spoken_plural": "tantes",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "uncle [male]",
+        "hebrew_spoken_singular": "oncle",
+        "hebrew_spoken_plural": "oncles",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "cousin [male]",
+        "hebrew_spoken_singular": "cousin",
+        "hebrew_spoken_plural": "cousins",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "husband [male]",
+        "hebrew_spoken_singular": "mari",
+        "hebrew_spoken_plural": "maris",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "wife [female]",
+        "hebrew_spoken_singular": "femme",
+        "hebrew_spoken_plural": "femmes",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "son [male]",
+        "hebrew_spoken_singular": "fils",
+        "hebrew_spoken_plural": "fils",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "daughter [female]",
+        "hebrew_spoken_singular": "fille",
+        "hebrew_spoken_plural": "filles",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "baby [male]",
+        "hebrew_spoken_singular": "bébé",
+        "hebrew_spoken_plural": "bébés",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "boy [male]",
+        "hebrew_spoken_singular": "garçon",
+        "hebrew_spoken_plural": "garçons",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "girl [female]",
+        "hebrew_spoken_singular": "fille",
+        "hebrew_spoken_plural": "filles",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "friend [male]",
+        "hebrew_spoken_singular": "ami",
+        "hebrew_spoken_plural": "amis",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "friend [female]",
+        "hebrew_spoken_singular": "amie",
+        "hebrew_spoken_plural": "amies",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "neighbor [male]",
+        "hebrew_spoken_singular": "voisin",
+        "hebrew_spoken_plural": "voisins",
+        "lesson": "Lesson 5"
+    }
+]

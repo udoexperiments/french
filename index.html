@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hebrew Language Learning App</title>
+    
+    <!-- CSS imports -->
+    <link rel="stylesheet" href="css/main.css">
+    
+    <!-- JavaScript module import -->
+    <script type="module" src="js/main.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <div class="control-group">
+                <button id="menu-button" class="action-button">
+                    <span class="button-text">Menu</span>
+                </button>
+                <button id="switch-direction" class="direction-button">
+                    <span class="button-text">English → French</span>
+                </button>
+            </div>
+            
+            <div class="control-group" style="display: none;">
+                <select id="category-select" class="glass-select">
+                    <!-- Options populated by JavaScript -->
+                </select>
+            </div>
+        </header>
+
+        <main>
+            <div class="card-container">
+                <div class="language-card">
+                    <div id="english-section">
+                        <div class="content-area">
+                            <div id="english-text"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="language-card">
+                    <div id="hebrew-section">
+                        <div class="content-area">
+                            <div id="hebrew-content"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        <!-- Menu grid outside of main -->
+        <div id="menu-grid" class="menu-grid">
+            <!-- Menu items populated by JavaScript -->
+        </div>
+
+        <footer>
+            <button id="show-continue" class="action-button">
+                <span class="button-text">Show</span>
+            </button>
+            <!-- Progress display and feedback buttons added dynamically -->
+        </footer>
+    </div>
+</body>
+</html>

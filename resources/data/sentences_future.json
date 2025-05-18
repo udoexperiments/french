@@ -1,0 +1,502 @@
+[
+    {
+        "english": "I will love drinking coffee in the morning.",
+        "hebrew_spoken": "J'aimerai boire du café le matin.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will read a book every night before bed.",
+        "hebrew_spoken": "Elle lira un livre chaque soir avant de se coucher.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will go to the beach next weekend.",
+        "hebrew_spoken": "Nous irons à la plage le week-end prochain.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They will study Hebrew together.",
+        "hebrew_spoken": "Ils/Elles étudieront l'hébreu ensemble.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He will like to cook Italian food.",
+        "hebrew_spoken": "Il aimera cuisiner de la nourriture italienne.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The sun will shine brightly tomorrow.",
+        "hebrew_spoken": "Le soleil brillera fort demain.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "In summer I will like to swim in the river.",
+        "hebrew_spoken": "En été, j'aimerai nager dans la rivière.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will listen to music while working.",
+        "hebrew_spoken": "Elle écoutera de la musique en travaillant.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will visit our grandparents next Sunday.",
+        "hebrew_spoken": "Nous rendrons visite à nos grands-parents dimanche prochain.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They will learn a new language.",
+        "hebrew_spoken": "Ils/Elles apprendront une nouvelle langue.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "I will enjoy hiking in the mountains.",
+        "hebrew_spoken": "J'apprécierai faire de la randonnée dans les montagnes.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The cat will sleep on the chair.",
+        "hebrew_spoken": "Le chat dormira sur la chaise.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will celebrate my birthday tomorrow.",
+        "hebrew_spoken": "Nous célébrerons mon anniversaire demain.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will work in a big company.",
+        "hebrew_spoken": "Elle travaillera dans une grande entreprise.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He will write a letter to his friend.",
+        "hebrew_spoken": "Il écrira une lettre à son ami.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "The kids will play in the park.",
+        "hebrew_spoken": "Les enfants joueront dans le parc.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will watch a great movie tonight.",
+        "hebrew_spoken": "Nous regarderons un bon film ce soir.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "She will love painting landscapes.",
+        "hebrew_spoken": "Elle adorera peindre des paysages.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "He will go running every morning.",
+        "hebrew_spoken": "Il ira courir tous les matins.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "We will buy fresh vegetables at the market.",
+        "hebrew_spoken": "Nous achèterons des légumes frais au marché.",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "They will dance at the party all night.",
+        "hebrew_spoken": "Ils/Elles danseront à la fête toute la nuit.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will make a delicious cake.",
+        "hebrew_spoken": "Elle fera un gâteau délicieux.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I will meet an old friend tomorrow.",
+        "hebrew_spoken": "Je rencontrerai un vieil ami demain.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will see a rainbow after the rain.",
+        "hebrew_spoken": "Nous verrons un arc-en-ciel après la pluie.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will live in a small village.",
+        "hebrew_spoken": "Ils/Elles vivront dans un petit village.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will play the piano beautifully.",
+        "hebrew_spoken": "Elle jouera du piano magnifiquement.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I will need to buy a new phone.",
+        "hebrew_spoken": "J'aurai besoin d'acheter un nouveau téléphone.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will have a picnic in the park.",
+        "hebrew_spoken": "Nous ferons un pique-nique dans le parc.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will talk about their plans.",
+        "hebrew_spoken": "Ils/Elles parleront de leurs projets.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The train will arrive at 5 o'clock.",
+        "hebrew_spoken": "Le train arrivera à 5 heures.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will wear a red dress.",
+        "hebrew_spoken": "Elle portera une robe rouge.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He will read the newspaper.",
+        "hebrew_spoken": "Il lira le journal.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will walk along the river.",
+        "hebrew_spoken": "Nous marcherons le long de la rivière.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will travel to another country.",
+        "hebrew_spoken": "Ils/Elles voyageront dans un autre pays.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The baby will sleep peacefully.",
+        "hebrew_spoken": "Le bébé dormira paisiblement.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "She will bake fresh bread.",
+        "hebrew_spoken": "Elle fera cuire du pain frais.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "We will learn Hebrew every day.",
+        "hebrew_spoken": "Nous apprendrons l'hébreu tous les jours.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "The flowers will bloom in spring.",
+        "hebrew_spoken": "Les fleurs fleuriront au printemps.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "He will have a meeting in the afternoon.",
+        "hebrew_spoken": "Il aura une réunion dans l'après-midi.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "They will enjoy watching the sunset.",
+        "hebrew_spoken": "Ils/Elles apprécieront regarder le coucher de soleil.",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "I will like visiting museums.",
+        "hebrew_spoken": "J'aimerai visiter des musées.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will help her younger brother with homework.",
+        "hebrew_spoken": "Elle aidera son petit frère à faire ses devoirs.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will play soccer in the evening.",
+        "hebrew_spoken": "Nous jouerons au football dans la soirée.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The birds will sing in the morning.",
+        "hebrew_spoken": "Les oiseaux chanteront le matin.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will fix his bicycle.",
+        "hebrew_spoken": "Il réparera son vélo.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They will eat dinner at a restaurant.",
+        "hebrew_spoken": "Ils/Elles dîneront dans un restaurant.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I will wait for the bus.",
+        "hebrew_spoken": "J'attendrai le bus.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will write a new story.",
+        "hebrew_spoken": "Elle écrira une nouvelle histoire.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will plan a trip to Jerusalem.",
+        "hebrew_spoken": "Nous planifierons un voyage à Jérusalem.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will learn to play the guitar.",
+        "hebrew_spoken": "Il apprendra à jouer de la guitare.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will enjoy painting in her free time.",
+        "hebrew_spoken": "Elle appréciera peindre pendant son temps libre.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will go to the cinema on Friday.",
+        "hebrew_spoken": "Nous irons au cinéma vendredi.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will like listening to classical music.",
+        "hebrew_spoken": "Il aimera écouter de la musique classique.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They will travel to Israel next summer.",
+        "hebrew_spoken": "Ils/Elles voyageront en Israël l'été prochain.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "The dog will bark outside.",
+        "hebrew_spoken": "Le chien aboiera dehors.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "I will wake up at 7 o'clock.",
+        "hebrew_spoken": "Je me réveillerai à 7 heures.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will prepare lunch for everyone.",
+        "hebrew_spoken": "Elle préparera le déjeuner pour tout le monde.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "They will wait at the train station.",
+        "hebrew_spoken": "Ils/Elles attendront à la gare.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "He will fix the broken chair.",
+        "hebrew_spoken": "Il réparera la chaise cassée.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "We will love walking in the park in autumn.",
+        "hebrew_spoken": "Nous aimerons marcher dans le parc en automne.",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "She will teach English at a school.",
+        "hebrew_spoken": "Elle enseignera l'anglais dans une école.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will want to learn how to dance.",
+        "hebrew_spoken": "Il voudra apprendre à danser.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The kids will watch cartoons.",
+        "hebrew_spoken": "Les enfants regarderont des dessins animés.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will have a barbecue next Saturday.",
+        "hebrew_spoken": "Nous ferons un barbecue samedi prochain.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will send me a beautiful postcard.",
+        "hebrew_spoken": "Elle m'enverra une belle carte postale.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will wear a blue jacket.",
+        "hebrew_spoken": "Il portera une veste bleue.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They will celebrate their anniversary.",
+        "hebrew_spoken": "Ils/Elles célébreront leur anniversaire.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "I will learn to play the piano.",
+        "hebrew_spoken": "J'apprendrai à jouer du piano.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will visit her aunt next weekend.",
+        "hebrew_spoken": "Elle rendra visite à sa tante le week-end prochain.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will buy a new sofa for the living room.",
+        "hebrew_spoken": "Nous achèterons un nouveau canapé pour le salon.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The waiter will bring us the menu.",
+        "hebrew_spoken": "Le serveur nous apportera le menu.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will look for his lost keys.",
+        "hebrew_spoken": "Il cherchera ses clés perdues.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will speak to her friend on the phone.",
+        "hebrew_spoken": "Elle parlera à son amie au téléphone.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will take a taxi to the airport.",
+        "hebrew_spoken": "Nous prendrons un taxi pour aller à l'aéroport.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "The children will love playing with their toys.",
+        "hebrew_spoken": "Les enfants adoreront jouer avec leurs jouets.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will drink tea in the evening.",
+        "hebrew_spoken": "Il boira du thé le soir.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They will build a new house.",
+        "hebrew_spoken": "Ils/Elles construiront une nouvelle maison.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "We will see dolphins in the sea.",
+        "hebrew_spoken": "Nous verrons des dauphins dans la mer.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "She will make a delicious salad.",
+        "hebrew_spoken": "Elle préparera une salade délicieuse.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "He will want to buy a new car.",
+        "hebrew_spoken": "Il voudra acheter une nouvelle voiture.",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "They will dance together at the wedding.",
+        "hebrew_spoken": "Ils/Elles danseront ensemble au mariage.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will study at the university.",
+        "hebrew_spoken": "Elle étudiera à l'université.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will book a hotel for our vacation.",
+        "hebrew_spoken": "Nous réserverons un hôtel pour nos vacances.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will drive to work.",
+        "hebrew_spoken": "Il conduira pour aller au travail.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will take care of her little brother.",
+        "hebrew_spoken": "Elle s'occupera de son petit frère.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will eat ice cream at the beach.",
+        "hebrew_spoken": "Nous mangerons de la glace à la plage.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They will wait for the bus.",
+        "hebrew_spoken": "Ils/Elles attendront le bus.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will write a letter to her friend.",
+        "hebrew_spoken": "Elle écrira une lettre à son amie.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will enjoy watching sports.",
+        "hebrew_spoken": "Il appréciera regarder du sport.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will spend the whole day at the zoo.",
+        "hebrew_spoken": "Nous passerons toute la journée au zoo.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will work in a bookstore.",
+        "hebrew_spoken": "Elle travaillera dans une librairie.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will clean his apartment.",
+        "hebrew_spoken": "Il nettoiera son appartement.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They will laugh at a funny joke.",
+        "hebrew_spoken": "Ils/Elles riront d'une blague drôle.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will find a beautiful seashell.",
+        "hebrew_spoken": "Elle trouvera un beau coquillage.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will go to the market.",
+        "hebrew_spoken": "Nous irons au marché.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will play the guitar in a band.",
+        "hebrew_spoken": "Il jouera de la guitare dans un groupe.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "She will give him a nice present.",
+        "hebrew_spoken": "Elle lui donnera un joli cadeau.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "We will learn about history.",
+        "hebrew_spoken": "Nous apprendrons l'histoire.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "He will wash his car.",
+        "hebrew_spoken": "Il lavera sa voiture.",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "They will make plans for the weekend.",
+        "hebrew_spoken": "Ils/Elles feront des projets pour le week-end.",
+        "lesson": "Lesson 5"
+    }
+]

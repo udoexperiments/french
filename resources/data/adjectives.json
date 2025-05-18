@@ -1,0 +1,794 @@
+[
+    {
+        "english": "Big",
+        "hebrew_spoken_male": "Grand",
+        "hebrew_letters_male": "Grands",
+        "hebrew_spoken_female": "Grande",
+        "hebrew_letters_female": "Grandes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Small",
+        "hebrew_spoken_male": "Petit",
+        "hebrew_letters_male": "Petits",
+        "hebrew_spoken_female": "Petite",
+        "hebrew_letters_female": "Petites",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Fast",
+        "hebrew_spoken_male": "Rapide",
+        "hebrew_letters_male": "Rapides",
+        "hebrew_spoken_female": "Rapide",
+        "hebrew_letters_female": "Rapides",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Slow",
+        "hebrew_spoken_male": "Lent",
+        "hebrew_letters_male": "Lents",
+        "hebrew_spoken_female": "Lente",
+        "hebrew_letters_female": "Lentes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Strong",
+        "hebrew_spoken_male": "Fort",
+        "hebrew_letters_male": "Forts",
+        "hebrew_spoken_female": "Forte",
+        "hebrew_letters_female": "Fortes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Weak",
+        "hebrew_spoken_male": "Faible",
+        "hebrew_letters_male": "Faibles",
+        "hebrew_spoken_female": "Faible",
+        "hebrew_letters_female": "Faibles",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Happy",
+        "hebrew_spoken_male": "Heureux",
+        "hebrew_letters_male": "Heureux",
+        "hebrew_spoken_female": "Heureuse",
+        "hebrew_letters_female": "Heureuses",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Sad",
+        "hebrew_spoken_male": "Triste",
+        "hebrew_letters_male": "Tristes",
+        "hebrew_spoken_female": "Triste",
+        "hebrew_letters_female": "Tristes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Pretty",
+        "hebrew_spoken_male": "Joli",
+        "hebrew_letters_male": "Jolis",
+        "hebrew_spoken_female": "Jolie",
+        "hebrew_letters_female": "Jolies",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Ugly",
+        "hebrew_spoken_male": "Laid",
+        "hebrew_letters_male": "Laids",
+        "hebrew_spoken_female": "Laide",
+        "hebrew_letters_female": "Laides",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Smart",
+        "hebrew_spoken_male": "Intelligent",
+        "hebrew_letters_male": "Intelligents",
+        "hebrew_spoken_female": "Intelligente",
+        "hebrew_letters_female": "Intelligentes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Stupid",
+        "hebrew_spoken_male": "Stupide",
+        "hebrew_letters_male": "Stupides",
+        "hebrew_spoken_female": "Stupide",
+        "hebrew_letters_female": "Stupides",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Young",
+        "hebrew_spoken_male": "Jeune",
+        "hebrew_letters_male": "Jeunes",
+        "hebrew_spoken_female": "Jeune",
+        "hebrew_letters_female": "Jeunes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Old",
+        "hebrew_spoken_male": "Vieux",
+        "hebrew_letters_male": "Vieux",
+        "hebrew_spoken_female": "Vieille",
+        "hebrew_letters_female": "Vieilles",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "New",
+        "hebrew_spoken_male": "Nouveau",
+        "hebrew_letters_male": "Nouveaux",
+        "hebrew_spoken_female": "Nouvelle",
+        "hebrew_letters_female": "Nouvelles",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Ancient",
+        "hebrew_spoken_male": "Ancien",
+        "hebrew_letters_male": "Anciens",
+        "hebrew_spoken_female": "Ancienne",
+        "hebrew_letters_female": "Anciennes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Good",
+        "hebrew_spoken_male": "Bon",
+        "hebrew_letters_male": "Bons",
+        "hebrew_spoken_female": "Bonne",
+        "hebrew_letters_female": "Bonnes",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Bad",
+        "hebrew_spoken_male": "Mauvais",
+        "hebrew_letters_male": "Mauvais",
+        "hebrew_spoken_female": "Mauvaise",
+        "hebrew_letters_female": "Mauvaises",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Expensive",
+        "hebrew_spoken_male": "Cher",
+        "hebrew_letters_male": "Chers",
+        "hebrew_spoken_female": "Chère",
+        "hebrew_letters_female": "Chères",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Cheap",
+        "hebrew_spoken_male": "Bon marché",
+        "hebrew_letters_male": "Bon marché",
+        "hebrew_spoken_female": "Bon marché",
+        "hebrew_letters_female": "Bon marché",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "Long",
+        "hebrew_spoken_male": "Long",
+        "hebrew_letters_male": "Longs",
+        "hebrew_spoken_female": "Longue",
+        "hebrew_letters_female": "Longues",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Short",
+        "hebrew_spoken_male": "Court",
+        "hebrew_letters_male": "Courts",
+        "hebrew_spoken_female": "Courte",
+        "hebrew_letters_female": "Courtes",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Wide",
+        "hebrew_spoken_male": "Large",
+        "hebrew_letters_male": "Larges",
+        "hebrew_spoken_female": "Large",
+        "hebrew_letters_female": "Larges",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Narrow",
+        "hebrew_spoken_male": "Étroit",
+        "hebrew_letters_male": "Étroits",
+        "hebrew_spoken_female": "Étroite",
+        "hebrew_letters_female": "Étroites",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Clean",
+        "hebrew_spoken_male": "Propre",
+        "hebrew_letters_male": "Propres",
+        "hebrew_spoken_female": "Propre",
+        "hebrew_letters_female": "Propres",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Dirty",
+        "hebrew_spoken_male": "Sale",
+        "hebrew_letters_male": "Sales",
+        "hebrew_spoken_female": "Sale",
+        "hebrew_letters_female": "Sales",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Hard",
+        "hebrew_spoken_male": "Dur",
+        "hebrew_letters_male": "Durs",
+        "hebrew_spoken_female": "Dure",
+        "hebrew_letters_female": "Dures",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Soft",
+        "hebrew_spoken_male": "Doux",
+        "hebrew_letters_male": "Doux",
+        "hebrew_spoken_female": "Douce",
+        "hebrew_letters_female": "Douces",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Heavy",
+        "hebrew_spoken_male": "Lourd",
+        "hebrew_letters_male": "Lourds",
+        "hebrew_spoken_female": "Lourde",
+        "hebrew_letters_female": "Lourdes",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Light",
+        "hebrew_spoken_male": "Léger",
+        "hebrew_letters_male": "Légers",
+        "hebrew_spoken_female": "Légère",
+        "hebrew_letters_female": "Légères",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Cold",
+        "hebrew_spoken_male": "Froid",
+        "hebrew_letters_male": "Froids",
+        "hebrew_spoken_female": "Froide",
+        "hebrew_letters_female": "Froides",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Hot",
+        "hebrew_spoken_male": "Chaud",
+        "hebrew_letters_male": "Chauds",
+        "hebrew_spoken_female": "Chaude",
+        "hebrew_letters_female": "Chaudes",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Hard",
+        "hebrew_spoken_male": "Dur",
+        "hebrew_letters_male": "Durs",
+        "hebrew_spoken_female": "Dure",
+        "hebrew_letters_female": "Dures",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Soft",
+        "hebrew_spoken_male": "Doux",
+        "hebrew_letters_male": "Doux",
+        "hebrew_spoken_female": "Douce",
+        "hebrew_letters_female": "Douces",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Heavy",
+        "hebrew_spoken_male": "Lourd",
+        "hebrew_letters_male": "Lourds",
+        "hebrew_spoken_female": "Lourde",
+        "hebrew_letters_female": "Lourdes",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Light (weight)",
+        "hebrew_spoken_male": "Léger",
+        "hebrew_letters_male": "Légers",
+        "hebrew_spoken_female": "Légère",
+        "hebrew_letters_female": "Légères",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Dark",
+        "hebrew_spoken_male": "Sombre",
+        "hebrew_letters_male": "Sombres",
+        "hebrew_spoken_female": "Sombre",
+        "hebrew_letters_female": "Sombres",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Bright",
+        "hebrew_spoken_male": "Lumineux",
+        "hebrew_letters_male": "Lumineux",
+        "hebrew_spoken_female": "Lumineuse",
+        "hebrew_letters_female": "Lumineuses",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Full",
+        "hebrew_spoken_male": "Plein",
+        "hebrew_letters_male": "Pleins",
+        "hebrew_spoken_female": "Pleine",
+        "hebrew_letters_female": "Pleines",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Empty",
+        "hebrew_spoken_male": "Vide",
+        "hebrew_letters_male": "Vides",
+        "hebrew_spoken_female": "Vide",
+        "hebrew_letters_female": "Vides",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "Wide",
+        "hebrew_spoken_male": "Large",
+        "hebrew_letters_male": "Larges",
+        "hebrew_spoken_female": "Large",
+        "hebrew_letters_female": "Larges",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Narrow",
+        "hebrew_spoken_male": "Étroit",
+        "hebrew_letters_male": "Étroits",
+        "hebrew_spoken_female": "Étroite",
+        "hebrew_letters_female": "Étroites",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Thick",
+        "hebrew_spoken_male": "Épais",
+        "hebrew_letters_male": "Épais",
+        "hebrew_spoken_female": "Épaisse",
+        "hebrew_letters_female": "Épaisses",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Thin",
+        "hebrew_spoken_male": "Mince",
+        "hebrew_letters_male": "Minces",
+        "hebrew_spoken_female": "Mince",
+        "hebrew_letters_female": "Minces",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Deep",
+        "hebrew_spoken_male": "Profond",
+        "hebrew_letters_male": "Profonds",
+        "hebrew_spoken_female": "Profonde",
+        "hebrew_letters_female": "Profondes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Shallow",
+        "hebrew_spoken_male": "Peu profond",
+        "hebrew_letters_male": "Peu profonds",
+        "hebrew_spoken_female": "Peu profonde",
+        "hebrew_letters_female": "Peu profondes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Clean",
+        "hebrew_spoken_male": "Propre",
+        "hebrew_letters_male": "Propres",
+        "hebrew_spoken_female": "Propre",
+        "hebrew_letters_female": "Propres",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Dirty",
+        "hebrew_spoken_male": "Sale",
+        "hebrew_letters_male": "Sales",
+        "hebrew_spoken_female": "Sale",
+        "hebrew_letters_female": "Sales",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Busy",
+        "hebrew_spoken_male": "Occupé",
+        "hebrew_letters_male": "Occupés",
+        "hebrew_spoken_female": "Occupée",
+        "hebrew_letters_female": "Occupées",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Free (available)",
+        "hebrew_spoken_male": "Libre",
+        "hebrew_letters_male": "Libres",
+        "hebrew_spoken_female": "Libre",
+        "hebrew_letters_female": "Libres",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Friendly",
+        "hebrew_spoken_male": "Amical",
+        "hebrew_letters_male": "Amicaux",
+        "hebrew_spoken_female": "Amicale",
+        "hebrew_letters_female": "Amicales",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Mean",
+        "hebrew_spoken_male": "Méchant",
+        "hebrew_letters_male": "Méchants",
+        "hebrew_spoken_female": "Méchante",
+        "hebrew_letters_female": "Méchantes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Generous",
+        "hebrew_spoken_male": "Généreux",
+        "hebrew_letters_male": "Généreux",
+        "hebrew_spoken_female": "Généreuse",
+        "hebrew_letters_female": "Généreuses",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Selfish",
+        "hebrew_spoken_male": "Égoïste",
+        "hebrew_letters_male": "Égoïstes",
+        "hebrew_spoken_female": "Égoïste",
+        "hebrew_letters_female": "Égoïstes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Brave",
+        "hebrew_spoken_male": "Courageux",
+        "hebrew_letters_male": "Courageux",
+        "hebrew_spoken_female": "Courageuse",
+        "hebrew_letters_female": "Courageuses",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Cowardly",
+        "hebrew_spoken_male": "Lâche",
+        "hebrew_letters_male": "Lâches",
+        "hebrew_spoken_female": "Lâche",
+        "hebrew_letters_female": "Lâches",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Polite",
+        "hebrew_spoken_male": "Poli",
+        "hebrew_letters_male": "Polis",
+        "hebrew_spoken_female": "Polie",
+        "hebrew_letters_female": "Polies",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Rude",
+        "hebrew_spoken_male": "Grossier",
+        "hebrew_letters_male": "Grossiers",
+        "hebrew_spoken_female": "Grossière",
+        "hebrew_letters_female": "Grossières",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Honest",
+        "hebrew_spoken_male": "Honnête",
+        "hebrew_letters_male": "Honnêtes",
+        "hebrew_spoken_female": "Honnête",
+        "hebrew_letters_female": "Honnêtes",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Cheater",
+        "hebrew_spoken_male": "Tricheur",
+        "hebrew_letters_male": "Tricheurs",
+        "hebrew_spoken_female": "Tricheuse",
+        "hebrew_letters_female": "Tricheuses",
+        "lesson": "Lesson 3"
+    },
+    {
+        "english": "Loyal",
+        "hebrew_spoken_male": "Loyal",
+        "hebrew_letters_male": "Loyaux",
+        "hebrew_spoken_female": "Loyale",
+        "hebrew_letters_female": "Loyales",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Disloyal",
+        "hebrew_spoken_male": "Déloyal",
+        "hebrew_letters_male": "Déloyaux",
+        "hebrew_spoken_female": "Déloyale",
+        "hebrew_letters_female": "Déloyales",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Tired",
+        "hebrew_spoken_male": "Fatigué",
+        "hebrew_letters_male": "Fatigués",
+        "hebrew_spoken_female": "Fatiguée",
+        "hebrew_letters_female": "Fatiguées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Energetic",
+        "hebrew_spoken_male": "Énergique",
+        "hebrew_letters_male": "Énergiques",
+        "hebrew_spoken_female": "Énergique",
+        "hebrew_letters_female": "Énergiques",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Hungry",
+        "hebrew_spoken_male": "Affamé",
+        "hebrew_letters_male": "Affamés",
+        "hebrew_spoken_female": "Affamée",
+        "hebrew_letters_female": "Affamées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Thirsty",
+        "hebrew_spoken_male": "Assoiffé",
+        "hebrew_letters_male": "Assoiffés",
+        "hebrew_spoken_female": "Assoiffée",
+        "hebrew_letters_female": "Assoiffées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Bored",
+        "hebrew_spoken_male": "Ennuyé",
+        "hebrew_letters_male": "Ennuyés",
+        "hebrew_spoken_female": "Ennuyée",
+        "hebrew_letters_female": "Ennuyées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Excited",
+        "hebrew_spoken_male": "Excité",
+        "hebrew_letters_male": "Excités",
+        "hebrew_spoken_female": "Excitée",
+        "hebrew_letters_female": "Excitées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Calm",
+        "hebrew_spoken_male": "Calme",
+        "hebrew_letters_male": "Calmes",
+        "hebrew_spoken_female": "Calme",
+        "hebrew_letters_female": "Calmes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Quiet",
+        "hebrew_spoken_male": "Silencieux",
+        "hebrew_letters_male": "Silencieux",
+        "hebrew_spoken_female": "Silencieuse",
+        "hebrew_letters_female": "Silencieuses",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Loud",
+        "hebrew_spoken_male": "Bruyant",
+        "hebrew_letters_male": "Bruyants",
+        "hebrew_spoken_female": "Bruyante",
+        "hebrew_letters_female": "Bruyantes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Neat",
+        "hebrew_spoken_male": "Soigné",
+        "hebrew_letters_male": "Soignés",
+        "hebrew_spoken_female": "Soignée",
+        "hebrew_letters_female": "Soignées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Messy",
+        "hebrew_spoken_male": "Désordonné",
+        "hebrew_letters_male": "Désordonnés",
+        "hebrew_spoken_female": "Désordonnée",
+        "hebrew_letters_female": "Désordonnées",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Patient",
+        "hebrew_spoken_male": "Patient",
+        "hebrew_letters_male": "Patients",
+        "hebrew_spoken_female": "Patiente",
+        "hebrew_letters_female": "Patientes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Impatient",
+        "hebrew_spoken_male": "Impatient",
+        "hebrew_letters_male": "Impatients",
+        "hebrew_spoken_female": "Impatiente",
+        "hebrew_letters_female": "Impatientes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Strict",
+        "hebrew_spoken_male": "Strict",
+        "hebrew_letters_male": "Stricts",
+        "hebrew_spoken_female": "Stricte",
+        "hebrew_letters_female": "Strictes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Lenient",
+        "hebrew_spoken_male": "Indulgent",
+        "hebrew_letters_male": "Indulgents",
+        "hebrew_spoken_female": "Indulgente",
+        "hebrew_letters_female": "Indulgentes",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Real",
+        "hebrew_spoken_male": "Réel",
+        "hebrew_letters_male": "Réels",
+        "hebrew_spoken_female": "Réelle",
+        "hebrew_letters_female": "Réelles",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Fake",
+        "hebrew_spoken_male": "Faux",
+        "hebrew_letters_male": "Faux",
+        "hebrew_spoken_female": "Fausse",
+        "hebrew_letters_female": "Fausses",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "Dangerous",
+        "hebrew_spoken_male": "Dangereux",
+        "hebrew_letters_male": "Dangereux",
+        "hebrew_spoken_female": "Dangereuse",
+        "hebrew_letters_female": "Dangereuses",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Safe",
+        "hebrew_spoken_male": "Sûr",
+        "hebrew_letters_male": "Sûrs",
+        "hebrew_spoken_female": "Sûre",
+        "hebrew_letters_female": "Sûres",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Difficult",
+        "hebrew_spoken_male": "Difficile",
+        "hebrew_letters_male": "Difficiles",
+        "hebrew_spoken_female": "Difficile",
+        "hebrew_letters_female": "Difficiles",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Easy",
+        "hebrew_spoken_male": "Facile",
+        "hebrew_letters_male": "Faciles",
+        "hebrew_spoken_female": "Facile",
+        "hebrew_letters_female": "Faciles",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Delicious",
+        "hebrew_spoken_male": "Délicieux",
+        "hebrew_letters_male": "Délicieux",
+        "hebrew_spoken_female": "Délicieuse",
+        "hebrew_letters_female": "Délicieuses",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Bitter",
+        "hebrew_spoken_male": "Amer",
+        "hebrew_letters_male": "Amers",
+        "hebrew_spoken_female": "Amère",
+        "hebrew_letters_female": "Amères",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Sweet",
+        "hebrew_spoken_male": "Sucré",
+        "hebrew_letters_male": "Sucrés",
+        "hebrew_spoken_female": "Sucrée",
+        "hebrew_letters_female": "Sucrées",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Salty",
+        "hebrew_spoken_male": "Salé",
+        "hebrew_letters_male": "Salés",
+        "hebrew_spoken_female": "Salée",
+        "hebrew_letters_female": "Salées",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Spicy",
+        "hebrew_spoken_male": "Épicé",
+        "hebrew_letters_male": "Épicés",
+        "hebrew_spoken_female": "Épicée",
+        "hebrew_letters_female": "Épicées",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Sour",
+        "hebrew_spoken_male": "Aigre",
+        "hebrew_letters_male": "Aigres",
+        "hebrew_spoken_female": "Aigre",
+        "hebrew_letters_female": "Aigres",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Wet",
+        "hebrew_spoken_male": "Mouillé",
+        "hebrew_letters_male": "Mouillés",
+        "hebrew_spoken_female": "Mouillée",
+        "hebrew_letters_female": "Mouillées",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Dry",
+        "hebrew_spoken_male": "Sec",
+        "hebrew_letters_male": "Secs",
+        "hebrew_spoken_female": "Sèche",
+        "hebrew_letters_female": "Sèches",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Curly",
+        "hebrew_spoken_male": "Bouclé",
+        "hebrew_letters_male": "Bouclés",
+        "hebrew_spoken_female": "Bouclée",
+        "hebrew_letters_female": "Bouclées",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Straight",
+        "hebrew_spoken_male": "Droit",
+        "hebrew_letters_male": "Droits",
+        "hebrew_spoken_female": "Droite",
+        "hebrew_letters_female": "Droites",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Tight",
+        "hebrew_spoken_male": "Serré",
+        "hebrew_letters_male": "Serrés",
+        "hebrew_spoken_female": "Serrée",
+        "hebrew_letters_female": "Serrées",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Loose",
+        "hebrew_spoken_male": "Lâche",
+        "hebrew_letters_male": "Lâches",
+        "hebrew_spoken_female": "Lâche",
+        "hebrew_letters_female": "Lâches",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Heavy (emotionally)",
+        "hebrew_spoken_male": "Lourd",
+        "hebrew_letters_male": "Lourds",
+        "hebrew_spoken_female": "Lourde",
+        "hebrew_letters_female": "Lourdes",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Softhearted",
+        "hebrew_spoken_male": "Tendre",
+        "hebrew_letters_male": "Tendres",
+        "hebrew_spoken_female": "Tendre",
+        "hebrew_letters_female": "Tendres",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Coldhearted",
+        "hebrew_spoken_male": "Insensible",
+        "hebrew_letters_male": "Insensibles",
+        "hebrew_spoken_female": "Insensible",
+        "hebrew_letters_female": "Insensibles",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "Complicated",
+        "hebrew_spoken_male": "Compliqué",
+        "hebrew_letters_male": "Compliqués",
+        "hebrew_spoken_female": "Compliquée",
+        "hebrew_letters_female": "Compliquées",
+        "lesson": "Lesson 5"
+    }
+]

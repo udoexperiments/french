@@ -1,0 +1,730 @@
+[
+    {
+        "english": "to eat",
+        "french_infinitive": "manger",
+        "french_1st_singular": "nous mangeons",
+        "french_2nd_singular": "vous mangez",
+        "french_3rd_singular": "ils/elles mangent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to drink",
+        "french_infinitive": "boire",
+        "french_1st_singular": "nous buvons",
+        "french_2nd_singular": "vous buvez",
+        "french_3rd_singular": "ils/elles boivent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to sleep",
+        "french_infinitive": "dormir",
+        "french_1st_singular": "nous dormons",
+        "french_2nd_singular": "vous dormez",
+        "french_3rd_singular": "ils/elles dorment",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to run",
+        "french_infinitive": "courir",
+        "french_1st_singular": "nous courons",
+        "french_2nd_singular": "vous courez",
+        "french_3rd_singular": "ils/elles courent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to walk",
+        "french_infinitive": "marcher",
+        "french_1st_singular": "nous marchons",
+        "french_2nd_singular": "vous marchez",
+        "french_3rd_singular": "ils/elles marchent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to write",
+        "french_infinitive": "écrire",
+        "french_1st_singular": "nous écrivons",
+        "french_2nd_singular": "vous écrivez",
+        "french_3rd_singular": "ils/elles écrivent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to read",
+        "french_infinitive": "lire",
+        "french_1st_singular": "nous lisons",
+        "french_2nd_singular": "vous lisez",
+        "french_3rd_singular": "ils/elles lisent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to speak",
+        "french_infinitive": "parler",
+        "french_1st_singular": "nous parlons",
+        "french_2nd_singular": "vous parlez",
+        "french_3rd_singular": "ils/elles parlent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to listen",
+        "french_infinitive": "écouter",
+        "french_1st_singular": "nous écoutons",
+        "french_2nd_singular": "vous écoutez",
+        "french_3rd_singular": "ils/elles écoutent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to see",
+        "french_infinitive": "voir",
+        "french_1st_singular": "nous voyons",
+        "french_2nd_singular": "vous voyez",
+        "french_3rd_singular": "ils/elles voient",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to hear",
+        "french_infinitive": "entendre",
+        "french_1st_singular": "nous entendons",
+        "french_2nd_singular": "vous entendez",
+        "french_3rd_singular": "ils/elles entendent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to work",
+        "french_infinitive": "travailler",
+        "french_1st_singular": "nous travaillons",
+        "french_2nd_singular": "vous travaillez",
+        "french_3rd_singular": "ils/elles travaillent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to learn",
+        "french_infinitive": "apprendre",
+        "french_1st_singular": "nous apprenons",
+        "french_2nd_singular": "vous apprenez",
+        "french_3rd_singular": "ils/elles apprennent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to teach",
+        "french_infinitive": "enseigner",
+        "french_1st_singular": "nous enseignons",
+        "french_2nd_singular": "vous enseignez",
+        "french_3rd_singular": "ils/elles enseignent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to buy",
+        "french_infinitive": "acheter",
+        "french_1st_singular": "nous achetons",
+        "french_2nd_singular": "vous achetez",
+        "french_3rd_singular": "ils/elles achètent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to sell",
+        "french_infinitive": "vendre",
+        "french_1st_singular": "nous vendons",
+        "french_2nd_singular": "vous vendez",
+        "french_3rd_singular": "ils/elles vendent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to love",
+        "french_infinitive": "aimer",
+        "french_1st_singular": "nous aimons",
+        "french_2nd_singular": "vous aimez",
+        "french_3rd_singular": "ils/elles aiment",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to hate",
+        "french_infinitive": "détester",
+        "french_1st_singular": "nous détestons",
+        "french_2nd_singular": "vous détestez",
+        "french_3rd_singular": "ils/elles détestent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to open",
+        "french_infinitive": "ouvrir",
+        "french_1st_singular": "nous ouvrons",
+        "french_2nd_singular": "vous ouvrez",
+        "french_3rd_singular": "ils/elles ouvrent",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to close",
+        "french_infinitive": "fermer",
+        "french_1st_singular": "nous fermons",
+        "french_2nd_singular": "vous fermez",
+        "french_3rd_singular": "ils/elles ferment",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to come",
+        "french_infinitive": "venir",
+        "french_1st_singular": "nous venons",
+        "french_2nd_singular": "vous venez",
+        "french_3rd_singular": "ils/elles viennent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to return",
+        "french_infinitive": "retourner",
+        "french_1st_singular": "nous retournons",
+        "french_2nd_singular": "vous retournez",
+        "french_3rd_singular": "ils/elles retournent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to jump",
+        "french_infinitive": "sauter",
+        "french_1st_singular": "nous sautons",
+        "french_2nd_singular": "vous sautez",
+        "french_3rd_singular": "ils/elles sautent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to dance",
+        "french_infinitive": "danser",
+        "french_1st_singular": "nous dansons",
+        "french_2nd_singular": "vous dansez",
+        "french_3rd_singular": "ils/elles dansent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to fly",
+        "french_infinitive": "voler",
+        "french_1st_singular": "nous volons",
+        "french_2nd_singular": "vous volez",
+        "french_3rd_singular": "ils/elles volent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to swim",
+        "french_infinitive": "nager",
+        "french_1st_singular": "nous nageons",
+        "french_2nd_singular": "vous nagez",
+        "french_3rd_singular": "ils/elles nagent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to climb",
+        "french_infinitive": "grimper",
+        "french_1st_singular": "nous grimpons",
+        "french_2nd_singular": "vous grimpez",
+        "french_3rd_singular": "ils/elles grimpent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to fall",
+        "french_infinitive": "tomber",
+        "french_1st_singular": "nous tombons",
+        "french_2nd_singular": "vous tombez",
+        "french_3rd_singular": "ils/elles tombent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to sit",
+        "french_infinitive": "s'asseoir",
+        "french_1st_singular": "nous nous asseyons",
+        "french_2nd_singular": "vous vous asseyez",
+        "french_3rd_singular": "ils/elles s'asseyent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to stand",
+        "french_infinitive": "se tenir debout",
+        "french_1st_singular": "nous nous tenons debout",
+        "french_2nd_singular": "vous vous tenez debout",
+        "french_3rd_singular": "ils/elles se tiennent debout",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to turn",
+        "french_infinitive": "tourner",
+        "french_1st_singular": "nous tournons",
+        "french_2nd_singular": "vous tournez",
+        "french_3rd_singular": "ils/elles tournent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to stop",
+        "french_infinitive": "arrêter",
+        "french_1st_singular": "nous arrêtons",
+        "french_2nd_singular": "vous arrêtez",
+        "french_3rd_singular": "ils/elles arrêtent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to start",
+        "french_infinitive": "commencer",
+        "french_1st_singular": "nous commençons",
+        "french_2nd_singular": "vous commencez",
+        "french_3rd_singular": "ils/elles commencent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to continue",
+        "french_infinitive": "continuer",
+        "french_1st_singular": "nous continuons",
+        "french_2nd_singular": "vous continuez",
+        "french_3rd_singular": "ils/elles continuent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to arrive",
+        "french_infinitive": "arriver",
+        "french_1st_singular": "nous arrivons",
+        "french_2nd_singular": "vous arrivez",
+        "french_3rd_singular": "ils/elles arrivent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to leave",
+        "french_infinitive": "partir",
+        "french_1st_singular": "nous partons",
+        "french_2nd_singular": "vous partez",
+        "french_3rd_singular": "ils/elles partent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to enter",
+        "french_infinitive": "entrer",
+        "french_1st_singular": "nous entrons",
+        "french_2nd_singular": "vous entrez",
+        "french_3rd_singular": "ils/elles entrent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to pass",
+        "french_infinitive": "passer",
+        "french_1st_singular": "nous passons",
+        "french_2nd_singular": "vous passez",
+        "french_3rd_singular": "ils/elles passent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to lead",
+        "french_infinitive": "diriger",
+        "french_1st_singular": "nous dirigeons",
+        "french_2nd_singular": "vous dirigez",
+        "french_3rd_singular": "ils/elles dirigent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to follow",
+        "french_infinitive": "suivre",
+        "french_1st_singular": "nous suivons",
+        "french_2nd_singular": "vous suivez",
+        "french_3rd_singular": "ils/elles suivent",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to ask",
+        "french_infinitive": "demander",
+        "french_1st_singular": "nous demandons",
+        "french_2nd_singular": "vous demandez",
+        "french_3rd_singular": "ils/elles demandent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to answer",
+        "french_infinitive": "répondre",
+        "french_1st_singular": "nous répondons",
+        "french_2nd_singular": "vous répondez",
+        "french_3rd_singular": "ils/elles répondent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to tell",
+        "french_infinitive": "dire",
+        "french_1st_singular": "nous disons",
+        "french_2nd_singular": "vous dites",
+        "french_3rd_singular": "ils/elles disent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to explain",
+        "french_infinitive": "expliquer",
+        "french_1st_singular": "nous expliquons",
+        "french_2nd_singular": "vous expliquez",
+        "french_3rd_singular": "ils/elles expliquent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to think",
+        "french_infinitive": "penser",
+        "french_1st_singular": "nous pensons",
+        "french_2nd_singular": "vous pensez",
+        "french_3rd_singular": "ils/elles pensent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to understand",
+        "french_infinitive": "comprendre",
+        "french_1st_singular": "nous comprenons",
+        "french_2nd_singular": "vous comprenez",
+        "french_3rd_singular": "ils/elles comprennent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to remember",
+        "french_infinitive": "se souvenir",
+        "french_1st_singular": "nous nous souvenons",
+        "french_2nd_singular": "vous vous souvenez",
+        "french_3rd_singular": "ils/elles se souviennent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to forget",
+        "french_infinitive": "oublier",
+        "french_1st_singular": "nous oublions",
+        "french_2nd_singular": "vous oubliez",
+        "french_3rd_singular": "ils/elles oublient",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to know",
+        "french_infinitive": "savoir",
+        "french_1st_singular": "nous savons",
+        "french_2nd_singular": "vous savez",
+        "french_3rd_singular": "ils/elles savent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to believe",
+        "french_infinitive": "croire",
+        "french_1st_singular": "nous croyons",
+        "french_2nd_singular": "vous croyez",
+        "french_3rd_singular": "ils/elles croient",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to agree",
+        "french_infinitive": "être d'accord",
+        "french_1st_singular": "nous sommes d'accord",
+        "french_2nd_singular": "vous êtes d'accord",
+        "french_3rd_singular": "ils/elles sont d'accord",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to argue",
+        "french_infinitive": "se disputer",
+        "french_1st_singular": "nous nous disputons",
+        "french_2nd_singular": "vous vous disputez",
+        "french_3rd_singular": "ils/elles se disputent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to lie",
+        "french_infinitive": "mentir",
+        "french_1st_singular": "nous mentons",
+        "french_2nd_singular": "vous mentez",
+        "french_3rd_singular": "ils/elles mentent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to promise",
+        "french_infinitive": "promettre",
+        "french_1st_singular": "nous promettons",
+        "french_2nd_singular": "vous promettez",
+        "french_3rd_singular": "ils/elles promettent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to pray",
+        "french_infinitive": "prier",
+        "french_1st_singular": "nous prions",
+        "french_2nd_singular": "vous priez",
+        "french_3rd_singular": "ils/elles prient",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to sing",
+        "french_infinitive": "chanter",
+        "french_1st_singular": "nous chantons",
+        "french_2nd_singular": "vous chantez",
+        "french_3rd_singular": "ils/elles chantent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to shout",
+        "french_infinitive": "crier",
+        "french_1st_singular": "nous crions",
+        "french_2nd_singular": "vous criez",
+        "french_3rd_singular": "ils/elles crient",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to whisper",
+        "french_infinitive": "chuchoter",
+        "french_1st_singular": "nous chuchotons",
+        "french_2nd_singular": "vous chuchotez",
+        "french_3rd_singular": "ils/elles chuchotent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to laugh",
+        "french_infinitive": "rire",
+        "french_1st_singular": "nous rions",
+        "french_2nd_singular": "vous riez",
+        "french_3rd_singular": "ils/elles rient",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to cry",
+        "french_infinitive": "pleurer",
+        "french_1st_singular": "nous pleurons",
+        "french_2nd_singular": "vous pleurez",
+        "french_3rd_singular": "ils/elles pleurent",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to cook",
+        "french_infinitive": "cuisiner",
+        "french_1st_singular": "nous cuisinons",
+        "french_2nd_singular": "vous cuisinez",
+        "french_3rd_singular": "ils/elles cuisinent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to clean",
+        "french_infinitive": "nettoyer",
+        "french_1st_singular": "nous nettoyons",
+        "french_2nd_singular": "vous nettoyez",
+        "french_3rd_singular": "ils/elles nettoient",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to wash",
+        "french_infinitive": "laver",
+        "french_1st_singular": "nous lavons",
+        "french_2nd_singular": "vous lavez",
+        "french_3rd_singular": "ils/elles lavent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to dress",
+        "french_infinitive": "s'habiller",
+        "french_1st_singular": "nous nous habillons",
+        "french_2nd_singular": "vous vous habillez",
+        "french_3rd_singular": "ils/elles s'habillent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to shower",
+        "french_infinitive": "se doucher",
+        "french_1st_singular": "nous nous douchons",
+        "french_2nd_singular": "vous vous douchez",
+        "french_3rd_singular": "ils/elles se douchent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to brush",
+        "french_infinitive": "brosser",
+        "french_1st_singular": "nous brossons",
+        "french_2nd_singular": "vous brossez",
+        "french_3rd_singular": "ils/elles brossent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to use",
+        "french_infinitive": "utiliser",
+        "french_1st_singular": "nous utilisons",
+        "french_2nd_singular": "vous utilisez",
+        "french_3rd_singular": "ils/elles utilisent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to fix",
+        "french_infinitive": "réparer",
+        "french_1st_singular": "nous réparons",
+        "french_2nd_singular": "vous réparez",
+        "french_3rd_singular": "ils/elles réparent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to break",
+        "french_infinitive": "casser",
+        "french_1st_singular": "nous cassons",
+        "french_2nd_singular": "vous cassez",
+        "french_3rd_singular": "ils/elles cassent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to build",
+        "french_infinitive": "construire",
+        "french_1st_singular": "nous construisons",
+        "french_2nd_singular": "vous construisez",
+        "french_3rd_singular": "ils/elles construisent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to paint",
+        "french_infinitive": "peindre",
+        "french_1st_singular": "nous peignons",
+        "french_2nd_singular": "vous peignez",
+        "french_3rd_singular": "ils/elles peignent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to draw",
+        "french_infinitive": "dessiner",
+        "french_1st_singular": "nous dessinons",
+        "french_2nd_singular": "vous dessinez",
+        "french_3rd_singular": "ils/elles dessinent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to wait",
+        "french_infinitive": "attendre",
+        "french_1st_singular": "nous attendons",
+        "french_2nd_singular": "vous attendez",
+        "french_3rd_singular": "ils/elles attendent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to search",
+        "french_infinitive": "chercher",
+        "french_1st_singular": "nous cherchons",
+        "french_2nd_singular": "vous cherchez",
+        "french_3rd_singular": "ils/elles cherchent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to find",
+        "french_infinitive": "trouver",
+        "french_1st_singular": "nous trouvons",
+        "french_2nd_singular": "vous trouvez",
+        "french_3rd_singular": "ils/elles trouvent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to lose",
+        "french_infinitive": "perdre",
+        "french_1st_singular": "nous perdons",
+        "french_2nd_singular": "vous perdez",
+        "french_3rd_singular": "ils/elles perdent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to win",
+        "french_infinitive": "gagner",
+        "french_1st_singular": "nous gagnons",
+        "french_2nd_singular": "vous gagnez",
+        "french_3rd_singular": "ils/elles gagnent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to try",
+        "french_infinitive": "essayer",
+        "french_1st_singular": "nous essayons",
+        "french_2nd_singular": "vous essayez",
+        "french_3rd_singular": "ils/elles essaient",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to succeed",
+        "french_infinitive": "réussir",
+        "french_1st_singular": "nous réussissons",
+        "french_2nd_singular": "vous réussissez",
+        "french_3rd_singular": "ils/elles réussissent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to fail",
+        "french_infinitive": "échouer",
+        "french_1st_singular": "nous échouons",
+        "french_2nd_singular": "vous échouez",
+        "french_3rd_singular": "ils/elles échouent",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to smile",
+        "french_infinitive": "sourire",
+        "french_1st_singular": "nous sourions",
+        "french_2nd_singular": "vous souriez",
+        "french_3rd_singular": "ils/elles sourient",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to worry",
+        "french_infinitive": "s'inquiéter",
+        "french_1st_singular": "nous nous inquiétons",
+        "french_2nd_singular": "vous vous inquiétez",
+        "french_3rd_singular": "ils/elles s'inquiètent",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to fear",
+        "french_infinitive": "craindre",
+        "french_1st_singular": "nous craignons",
+        "french_2nd_singular": "vous craignez",
+        "french_3rd_singular": "ils/elles craignent",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to enjoy",
+        "french_infinitive": "apprécier",
+        "french_1st_singular": "nous apprécions",
+        "french_2nd_singular": "vous appréciez",
+        "french_3rd_singular": "ils/elles apprécient",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be angry",
+        "french_infinitive": "être en colère",
+        "french_1st_singular": "nous sommes en colère",
+        "french_2nd_singular": "vous êtes en colère",
+        "french_3rd_singular": "ils/elles sont en colère",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be happy",
+        "french_infinitive": "être heureux/heureuse",
+        "french_1st_singular": "nous sommes heureux/heureuses",
+        "french_2nd_singular": "vous êtes heureux/heureuses",
+        "french_3rd_singular": "ils sont heureux/elles sont heureuses",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be sad",
+        "french_infinitive": "être triste",
+        "french_1st_singular": "nous sommes tristes",
+        "french_2nd_singular": "vous êtes tristes",
+        "french_3rd_singular": "ils/elles sont tristes",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to help",
+        "french_infinitive": "aider",
+        "french_1st_singular": "nous aidons",
+        "french_2nd_singular": "vous aidez",
+        "french_3rd_singular": "ils/elles aident",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to meet",
+        "french_infinitive": "rencontrer",
+        "french_1st_singular": "nous rencontrons",
+        "french_2nd_singular": "vous rencontrez",
+        "french_3rd_singular": "ils/elles rencontrent",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to invite",
+        "french_infinitive": "inviter",
+        "french_1st_singular": "nous invitons",
+        "french_2nd_singular": "vous invitez",
+        "french_3rd_singular": "ils/elles invitent",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to visit",
+        "french_infinitive": "visiter",
+        "french_1st_singular": "nous visitons",
+        "french_2nd_singular": "vous visitez",
+        "french_3rd_singular": "ils/elles visitent",
+        "lesson": "Lesson 5"
+    }
+]

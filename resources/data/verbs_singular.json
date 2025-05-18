@@ -1,0 +1,730 @@
+[
+    {
+        "english": "to eat",
+        "french_infinitive": "manger",
+        "french_1st_singular": "je mange",
+        "french_2nd_singular": "tu manges",
+        "french_3rd_singular": "il/elle mange",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to drink",
+        "french_infinitive": "boire",
+        "french_1st_singular": "je bois",
+        "french_2nd_singular": "tu bois",
+        "french_3rd_singular": "il/elle boit",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to sleep",
+        "french_infinitive": "dormir",
+        "french_1st_singular": "je dors",
+        "french_2nd_singular": "tu dors",
+        "french_3rd_singular": "il/elle dort",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to run",
+        "french_infinitive": "courir",
+        "french_1st_singular": "je cours",
+        "french_2nd_singular": "tu cours",
+        "french_3rd_singular": "il/elle court",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to walk",
+        "french_infinitive": "marcher",
+        "french_1st_singular": "je marche",
+        "french_2nd_singular": "tu marches",
+        "french_3rd_singular": "il/elle marche",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to write",
+        "french_infinitive": "écrire",
+        "french_1st_singular": "j'écris",
+        "french_2nd_singular": "tu écris",
+        "french_3rd_singular": "il/elle écrit",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to read",
+        "french_infinitive": "lire",
+        "french_1st_singular": "je lis",
+        "french_2nd_singular": "tu lis",
+        "french_3rd_singular": "il/elle lit",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to speak",
+        "french_infinitive": "parler",
+        "french_1st_singular": "je parle",
+        "french_2nd_singular": "tu parles",
+        "french_3rd_singular": "il/elle parle",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to listen",
+        "french_infinitive": "écouter",
+        "french_1st_singular": "j'écoute",
+        "french_2nd_singular": "tu écoutes",
+        "french_3rd_singular": "il/elle écoute",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to see",
+        "french_infinitive": "voir",
+        "french_1st_singular": "je vois",
+        "french_2nd_singular": "tu vois",
+        "french_3rd_singular": "il/elle voit",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to hear",
+        "french_infinitive": "entendre",
+        "french_1st_singular": "j'entends",
+        "french_2nd_singular": "tu entends",
+        "french_3rd_singular": "il/elle entend",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to work",
+        "french_infinitive": "travailler",
+        "french_1st_singular": "je travaille",
+        "french_2nd_singular": "tu travailles",
+        "french_3rd_singular": "il/elle travaille",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to learn",
+        "french_infinitive": "apprendre",
+        "french_1st_singular": "j'apprends",
+        "french_2nd_singular": "tu apprends",
+        "french_3rd_singular": "il/elle apprend",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to teach",
+        "french_infinitive": "enseigner",
+        "french_1st_singular": "j'enseigne",
+        "french_2nd_singular": "tu enseignes",
+        "french_3rd_singular": "il/elle enseigne",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to buy",
+        "french_infinitive": "acheter",
+        "french_1st_singular": "j'achète",
+        "french_2nd_singular": "tu achètes",
+        "french_3rd_singular": "il/elle achète",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to sell",
+        "french_infinitive": "vendre",
+        "french_1st_singular": "je vends",
+        "french_2nd_singular": "tu vends",
+        "french_3rd_singular": "il/elle vend",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to love",
+        "french_infinitive": "aimer",
+        "french_1st_singular": "j'aime",
+        "french_2nd_singular": "tu aimes",
+        "french_3rd_singular": "il/elle aime",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to hate",
+        "french_infinitive": "détester",
+        "french_1st_singular": "je déteste",
+        "french_2nd_singular": "tu détestes",
+        "french_3rd_singular": "il/elle déteste",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to open",
+        "french_infinitive": "ouvrir",
+        "french_1st_singular": "j'ouvre",
+        "french_2nd_singular": "tu ouvres",
+        "french_3rd_singular": "il/elle ouvre",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to close",
+        "french_infinitive": "fermer",
+        "french_1st_singular": "je ferme",
+        "french_2nd_singular": "tu fermes",
+        "french_3rd_singular": "il/elle ferme",
+        "lesson": "Lesson 1"
+    },
+    {
+        "english": "to come",
+        "french_infinitive": "venir",
+        "french_1st_singular": "je viens",
+        "french_2nd_singular": "tu viens",
+        "french_3rd_singular": "il/elle vient",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to return",
+        "french_infinitive": "retourner",
+        "french_1st_singular": "je retourne",
+        "french_2nd_singular": "tu retournes",
+        "french_3rd_singular": "il/elle retourne",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to jump",
+        "french_infinitive": "sauter",
+        "french_1st_singular": "je saute",
+        "french_2nd_singular": "tu sautes",
+        "french_3rd_singular": "il/elle saute",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to dance",
+        "french_infinitive": "danser",
+        "french_1st_singular": "je danse",
+        "french_2nd_singular": "tu danses",
+        "french_3rd_singular": "il/elle danse",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to fly",
+        "french_infinitive": "voler",
+        "french_1st_singular": "je vole",
+        "french_2nd_singular": "tu voles",
+        "french_3rd_singular": "il/elle vole",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to swim",
+        "french_infinitive": "nager",
+        "french_1st_singular": "je nage",
+        "french_2nd_singular": "tu nages",
+        "french_3rd_singular": "il/elle nage",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to climb",
+        "french_infinitive": "grimper",
+        "french_1st_singular": "je grimpe",
+        "french_2nd_singular": "tu grimpes",
+        "french_3rd_singular": "il/elle grimpe",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to fall",
+        "french_infinitive": "tomber",
+        "french_1st_singular": "je tombe",
+        "french_2nd_singular": "tu tombes",
+        "french_3rd_singular": "il/elle tombe",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to sit",
+        "french_infinitive": "s'asseoir",
+        "french_1st_singular": "je m'assieds",
+        "french_2nd_singular": "tu t'assieds",
+        "french_3rd_singular": "il/elle s'assied",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to stand",
+        "french_infinitive": "se tenir debout",
+        "french_1st_singular": "je me tiens debout",
+        "french_2nd_singular": "tu te tiens debout",
+        "french_3rd_singular": "il/elle se tient debout",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to turn",
+        "french_infinitive": "tourner",
+        "french_1st_singular": "je tourne",
+        "french_2nd_singular": "tu tournes",
+        "french_3rd_singular": "il/elle tourne",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to stop",
+        "french_infinitive": "arrêter",
+        "french_1st_singular": "j'arrête",
+        "french_2nd_singular": "tu arrêtes",
+        "french_3rd_singular": "il/elle arrête",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to start",
+        "french_infinitive": "commencer",
+        "french_1st_singular": "je commence",
+        "french_2nd_singular": "tu commences",
+        "french_3rd_singular": "il/elle commence",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to continue",
+        "french_infinitive": "continuer",
+        "french_1st_singular": "je continue",
+        "french_2nd_singular": "tu continues",
+        "french_3rd_singular": "il/elle continue",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to arrive",
+        "french_infinitive": "arriver",
+        "french_1st_singular": "j'arrive",
+        "french_2nd_singular": "tu arrives",
+        "french_3rd_singular": "il/elle arrive",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to leave",
+        "french_infinitive": "partir",
+        "french_1st_singular": "je pars",
+        "french_2nd_singular": "tu pars",
+        "french_3rd_singular": "il/elle part",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to enter",
+        "french_infinitive": "entrer",
+        "french_1st_singular": "j'entre",
+        "french_2nd_singular": "tu entres",
+        "french_3rd_singular": "il/elle entre",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to pass",
+        "french_infinitive": "passer",
+        "french_1st_singular": "je passe",
+        "french_2nd_singular": "tu passes",
+        "french_3rd_singular": "il/elle passe",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to lead",
+        "french_infinitive": "diriger",
+        "french_1st_singular": "je dirige",
+        "french_2nd_singular": "tu diriges",
+        "french_3rd_singular": "il/elle dirige",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to follow",
+        "french_infinitive": "suivre",
+        "french_1st_singular": "je suis",
+        "french_2nd_singular": "tu suis",
+        "french_3rd_singular": "il/elle suit",
+        "lesson": "Lesson 2"
+    },
+    {
+        "english": "to ask",
+        "french_infinitive": "demander",
+        "french_1st_singular": "je demande",
+        "french_2nd_singular": "tu demandes",
+        "french_3rd_singular": "il/elle demande",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to answer",
+        "french_infinitive": "répondre",
+        "french_1st_singular": "je réponds",
+        "french_2nd_singular": "tu réponds",
+        "french_3rd_singular": "il/elle répond",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to tell",
+        "french_infinitive": "dire",
+        "french_1st_singular": "je dis",
+        "french_2nd_singular": "tu dis",
+        "french_3rd_singular": "il/elle dit",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to explain",
+        "french_infinitive": "expliquer",
+        "french_1st_singular": "j'explique",
+        "french_2nd_singular": "tu expliques",
+        "french_3rd_singular": "il/elle explique",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to think",
+        "french_infinitive": "penser",
+        "french_1st_singular": "je pense",
+        "french_2nd_singular": "tu penses",
+        "french_3rd_singular": "il/elle pense",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to understand",
+        "french_infinitive": "comprendre",
+        "french_1st_singular": "je comprends",
+        "french_2nd_singular": "tu comprends",
+        "french_3rd_singular": "il/elle comprend",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to remember",
+        "french_infinitive": "se souvenir",
+        "french_1st_singular": "je me souviens",
+        "french_2nd_singular": "tu te souviens",
+        "french_3rd_singular": "il/elle se souvient",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to forget",
+        "french_infinitive": "oublier",
+        "french_1st_singular": "j'oublie",
+        "french_2nd_singular": "tu oublies",
+        "french_3rd_singular": "il/elle oublie",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to know",
+        "french_infinitive": "savoir",
+        "french_1st_singular": "je sais",
+        "french_2nd_singular": "tu sais",
+        "french_3rd_singular": "il/elle sait",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to believe",
+        "french_infinitive": "croire",
+        "french_1st_singular": "je crois",
+        "french_2nd_singular": "tu crois",
+        "french_3rd_singular": "il/elle croit",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to agree",
+        "french_infinitive": "être d'accord",
+        "french_1st_singular": "je suis d'accord",
+        "french_2nd_singular": "tu es d'accord",
+        "french_3rd_singular": "il/elle est d'accord",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to argue",
+        "french_infinitive": "se disputer",
+        "french_1st_singular": "je me dispute",
+        "french_2nd_singular": "tu te disputes",
+        "french_3rd_singular": "il/elle se dispute",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to lie",
+        "french_infinitive": "mentir",
+        "french_1st_singular": "je mens",
+        "french_2nd_singular": "tu mens",
+        "french_3rd_singular": "il/elle ment",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to promise",
+        "french_infinitive": "promettre",
+        "french_1st_singular": "je promets",
+        "french_2nd_singular": "tu promets",
+        "french_3rd_singular": "il/elle promet",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to pray",
+        "french_infinitive": "prier",
+        "french_1st_singular": "je prie",
+        "french_2nd_singular": "tu pries",
+        "french_3rd_singular": "il/elle prie",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to sing",
+        "french_infinitive": "chanter",
+        "french_1st_singular": "je chante",
+        "french_2nd_singular": "tu chantes",
+        "french_3rd_singular": "il/elle chante",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to shout",
+        "french_infinitive": "crier",
+        "french_1st_singular": "je crie",
+        "french_2nd_singular": "tu cries",
+        "french_3rd_singular": "il/elle crie",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to whisper",
+        "french_infinitive": "chuchoter",
+        "french_1st_singular": "je chuchote",
+        "french_2nd_singular": "tu chuchotes",
+        "french_3rd_singular": "il/elle chuchote",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to laugh",
+        "french_infinitive": "rire",
+        "french_1st_singular": "je ris",
+        "french_2nd_singular": "tu ris",
+        "french_3rd_singular": "il/elle rit",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to cry",
+        "french_infinitive": "pleurer",
+        "french_1st_singular": "je pleure",
+        "french_2nd_singular": "tu pleures",
+        "french_3rd_singular": "il/elle pleure",
+        "lesson": "Session 3"
+    },
+    {
+        "english": "to cook",
+        "french_infinitive": "cuisiner",
+        "french_1st_singular": "je cuisine",
+        "french_2nd_singular": "tu cuisines",
+        "french_3rd_singular": "il/elle cuisine",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to clean",
+        "french_infinitive": "nettoyer",
+        "french_1st_singular": "je nettoie",
+        "french_2nd_singular": "tu nettoies",
+        "french_3rd_singular": "il/elle nettoie",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to wash",
+        "french_infinitive": "laver",
+        "french_1st_singular": "je lave",
+        "french_2nd_singular": "tu laves",
+        "french_3rd_singular": "il/elle lave",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to dress",
+        "french_infinitive": "s'habiller",
+        "french_1st_singular": "je m'habille",
+        "french_2nd_singular": "tu t'habilles",
+        "french_3rd_singular": "il/elle s'habille",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to shower",
+        "french_infinitive": "se doucher",
+        "french_1st_singular": "je me douche",
+        "french_2nd_singular": "tu te douches",
+        "french_3rd_singular": "il/elle se douche",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to brush",
+        "french_infinitive": "brosser",
+        "french_1st_singular": "je brosse",
+        "french_2nd_singular": "tu brosses",
+        "french_3rd_singular": "il/elle brosse",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to use",
+        "french_infinitive": "utiliser",
+        "french_1st_singular": "j'utilise",
+        "french_2nd_singular": "tu utilises",
+        "french_3rd_singular": "il/elle utilise",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to fix",
+        "french_infinitive": "réparer",
+        "french_1st_singular": "je répare",
+        "french_2nd_singular": "tu répares",
+        "french_3rd_singular": "il/elle répare",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to break",
+        "french_infinitive": "casser",
+        "french_1st_singular": "je casse",
+        "french_2nd_singular": "tu casses",
+        "french_3rd_singular": "il/elle casse",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to build",
+        "french_infinitive": "construire",
+        "french_1st_singular": "je construis",
+        "french_2nd_singular": "tu construis",
+        "french_3rd_singular": "il/elle construit",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to paint",
+        "french_infinitive": "peindre",
+        "french_1st_singular": "je peins",
+        "french_2nd_singular": "tu peins",
+        "french_3rd_singular": "il/elle peint",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to draw",
+        "french_infinitive": "dessiner",
+        "french_1st_singular": "je dessine",
+        "french_2nd_singular": "tu dessines",
+        "french_3rd_singular": "il/elle dessine",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to wait",
+        "french_infinitive": "attendre",
+        "french_1st_singular": "j'attends",
+        "french_2nd_singular": "tu attends",
+        "french_3rd_singular": "il/elle attend",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to search",
+        "french_infinitive": "chercher",
+        "french_1st_singular": "je cherche",
+        "french_2nd_singular": "tu cherches",
+        "french_3rd_singular": "il/elle cherche",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to find",
+        "french_infinitive": "trouver",
+        "french_1st_singular": "je trouve",
+        "french_2nd_singular": "tu trouves",
+        "french_3rd_singular": "il/elle trouve",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to lose",
+        "french_infinitive": "perdre",
+        "french_1st_singular": "je perds",
+        "french_2nd_singular": "tu perds",
+        "french_3rd_singular": "il/elle perd",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to win",
+        "french_infinitive": "gagner",
+        "french_1st_singular": "je gagne",
+        "french_2nd_singular": "tu gagnes",
+        "french_3rd_singular": "il/elle gagne",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to try",
+        "french_infinitive": "essayer",
+        "french_1st_singular": "j'essaie",
+        "french_2nd_singular": "tu essaies",
+        "french_3rd_singular": "il/elle essaie",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to succeed",
+        "french_infinitive": "réussir",
+        "french_1st_singular": "je réussis",
+        "french_2nd_singular": "tu réussis",
+        "french_3rd_singular": "il/elle réussit",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to fail",
+        "french_infinitive": "échouer",
+        "french_1st_singular": "j'échoue",
+        "french_2nd_singular": "tu échoues",
+        "french_3rd_singular": "il/elle échoue",
+        "lesson": "Lesson 4"
+    },
+    {
+        "english": "to smile",
+        "french_infinitive": "sourire",
+        "french_1st_singular": "je souris",
+        "french_2nd_singular": "tu souris",
+        "french_3rd_singular": "il/elle sourit",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to worry",
+        "french_infinitive": "s'inquiéter",
+        "french_1st_singular": "je m'inquiète",
+        "french_2nd_singular": "tu t'inquiètes",
+        "french_3rd_singular": "il/elle s'inquiète",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to fear",
+        "french_infinitive": "craindre",
+        "french_1st_singular": "je crains",
+        "french_2nd_singular": "tu crains",
+        "french_3rd_singular": "il/elle craint",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to enjoy",
+        "french_infinitive": "apprécier",
+        "french_1st_singular": "j'apprécie",
+        "french_2nd_singular": "tu apprécies",
+        "french_3rd_singular": "il/elle apprécie",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be angry",
+        "french_infinitive": "être en colère",
+        "french_1st_singular": "je suis en colère",
+        "french_2nd_singular": "tu es en colère",
+        "french_3rd_singular": "il/elle est en colère",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be happy",
+        "french_infinitive": "être heureux/heureuse",
+        "french_1st_singular": "je suis heureux/heureuse",
+        "french_2nd_singular": "tu es heureux/heureuse",
+        "french_3rd_singular": "il est heureux/elle est heureuse",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to be sad",
+        "french_infinitive": "être triste",
+        "french_1st_singular": "je suis triste",
+        "french_2nd_singular": "tu es triste",
+        "french_3rd_singular": "il/elle est triste",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to help",
+        "french_infinitive": "aider",
+        "french_1st_singular": "j'aide",
+        "french_2nd_singular": "tu aides",
+        "french_3rd_singular": "il/elle aide",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to meet",
+        "french_infinitive": "rencontrer",
+        "french_1st_singular": "je rencontre",
+        "french_2nd_singular": "tu rencontres",
+        "french_3rd_singular": "il/elle rencontre",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to invite",
+        "french_infinitive": "inviter",
+        "french_1st_singular": "j'invite",
+        "french_2nd_singular": "tu invites",
+        "french_3rd_singular": "il/elle invite",
+        "lesson": "Lesson 5"
+    },
+    {
+        "english": "to visit",
+        "french_infinitive": "visiter",
+        "french_1st_singular": "je visite",
+        "french_2nd_singular": "tu visites",
+        "french_3rd_singular": "il/elle visite",
+        "lesson": "Lesson 5"
+    }
+]
