@@ -85,12 +85,7 @@ class ContentFormatter {
         if (entry.hebrew_spoken || entry.hebrew_letters) {
           html += `
             <div class="form-group">
-              <span class="label">Hebrew Spoken:</span>
               <span class="spoken">${entry.hebrew_spoken || ''}</span>
-            </div>
-            <div class="form-group">
-              <span class="label">Hebrew Letters:</span>
-              <span class="letters">(${entry.hebrew_letters || ''})</span>
             </div>`;
         }
         
@@ -99,14 +94,8 @@ class ContentFormatter {
           html += `
             <div class="example-section" style="display: none;">
               <div class="form-group">
-                <span class="label">Example Spoken:</span>
                 <span class="spoken example">${entry.hebrew_spoken_example || ''}</span>
-              </div>
-              <div class="form-group">
-                <span class="label">Example Letters:</span>
-                <span class="letters example">(${entry.hebrew_letters_example || ''})</span>
-              </div>
-            </div>`;
+              </div>`;
         }
         
         html += '</div>';

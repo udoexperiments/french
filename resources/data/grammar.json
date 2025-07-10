@@ -1,0 +1,1306 @@
+[
+    {
+        "english": "I",
+        "hebrew_spoken": "Je",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "I speak French.",
+        "hebrew_spoken_example": "Je parle français."
+    },
+    {
+        "english": "You",
+        "hebrew_spoken": "Tu",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "Do you like music?",
+        "hebrew_spoken_example": "Tu aimes la musique ?"
+    },
+    {
+        "english": "He",
+        "hebrew_spoken": "Il",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "He works in Paris.",
+        "hebrew_spoken_example": "Il travaille à Paris."
+    },
+    {
+        "english": "She",
+        "hebrew_spoken": "Elle",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "She studies medicine.",
+        "hebrew_spoken_example": "Elle étudie la médecine."
+    },
+    {
+        "english": "One/We",
+        "hebrew_spoken": "On",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "We're going to the movies.",
+        "hebrew_spoken_example": "On va au cinéma."
+    },
+    {
+        "english": "We",
+        "hebrew_spoken": "Nous",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "We live in France.",
+        "hebrew_spoken_example": "Nous habitons en France."
+    },
+    {
+        "english": "You",
+        "hebrew_spoken": "Vous",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "Do you speak English?",
+        "hebrew_spoken_example": "Vous parlez anglais ?"
+    },
+    {
+        "english": "They",
+        "hebrew_spoken": "Ils",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "They are students.",
+        "hebrew_spoken_example": "Ils sont étudiants."
+    },
+    {
+        "english": "They",
+        "hebrew_spoken": "Elles",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "They are arriving tomorrow.",
+        "hebrew_spoken_example": "Elles arrivent demain."
+    },
+    {
+        "english": "Me",
+        "hebrew_spoken": "Me/M'",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "He sees me.",
+        "hebrew_spoken_example": "Il me voit."
+    },
+    {
+        "english": "You",
+        "hebrew_spoken": "Te/T'",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "I'm calling you.",
+        "hebrew_spoken_example": "Je t'appelle."
+    },
+    {
+        "english": "Him/Her/It",
+        "hebrew_spoken": "Le/La/L'",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "I know him.",
+        "hebrew_spoken_example": "Je le connais."
+    },
+    {
+        "english": "Him/Her",
+        "hebrew_spoken": "Lui",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "I speak to him/her.",
+        "hebrew_spoken_example": "Je lui parle."
+    },
+    {
+        "english": "Us",
+        "hebrew_spoken": "Nous",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "She invites us.",
+        "hebrew_spoken_example": "Elle nous invite."
+    },
+    {
+        "english": "You",
+        "hebrew_spoken": "Vous",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "I'm listening to you.",
+        "hebrew_spoken_example": "Je vous écoute."
+    },
+    {
+        "english": "Them",
+        "hebrew_spoken": "Les",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "I see them.",
+        "hebrew_spoken_example": "Je les vois."
+    },
+    {
+        "english": "Them",
+        "hebrew_spoken": "Leur",
+        "word_type": "Personal Pronouns",
+        "lesson": "Lesson 1",
+        "english_example": "He gives them a gift.",
+        "hebrew_spoken_example": "Il leur donne un cadeau."
+    },
+    {
+        "english": "This/That",
+        "hebrew_spoken": "Ce/Cet",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "This book is interesting.",
+        "hebrew_spoken_example": "Ce livre est intéressant."
+    },
+    {
+        "english": "This/That",
+        "hebrew_spoken": "Cette",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "This house is big.",
+        "hebrew_spoken_example": "Cette maison est grande."
+    },
+    {
+        "english": "These/Those",
+        "hebrew_spoken": "Ces",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "These children are playing outside.",
+        "hebrew_spoken_example": "Ces enfants jouent dehors."
+    },
+    {
+        "english": "This one/That one",
+        "hebrew_spoken": "Celui",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "The one belonging to Pierre is red.",
+        "hebrew_spoken_example": "Celui de Pierre est rouge."
+    },
+    {
+        "english": "This one/That one",
+        "hebrew_spoken": "Celle",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "This one is better.",
+        "hebrew_spoken_example": "Celle-ci est meilleure."
+    },
+    {
+        "english": "These ones/Those ones",
+        "hebrew_spoken": "Ceux",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "Those belonging to Marie are broken.",
+        "hebrew_spoken_example": "Ceux de Marie sont cassés."
+    },
+    {
+        "english": "These ones/Those ones",
+        "hebrew_spoken": "Celles",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "Those ones are more expensive.",
+        "hebrew_spoken_example": "Celles-là sont plus chères."
+    },
+    {
+        "english": "This",
+        "hebrew_spoken": "Ceci",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "This is important.",
+        "hebrew_spoken_example": "Ceci est important."
+    },
+    {
+        "english": "That",
+        "hebrew_spoken": "Cela/Ça",
+        "word_type": "Demonstrative Pronouns & Adjectives",
+        "lesson": "Lesson 2",
+        "english_example": "I like that very much.",
+        "hebrew_spoken_example": "Ça me plaît beaucoup."
+    },
+    {
+        "english": "Someone",
+        "hebrew_spoken": "Quelqu'un",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Someone called.",
+        "hebrew_spoken_example": "Quelqu'un a appelé."
+    },
+    {
+        "english": "Nobody",
+        "hebrew_spoken": "Personne",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Nobody came.",
+        "hebrew_spoken_example": "Personne n'est venu."
+    },
+    {
+        "english": "Something",
+        "hebrew_spoken": "Quelque chose",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "I saw something strange.",
+        "hebrew_spoken_example": "J'ai vu quelque chose d'étrange."
+    },
+    {
+        "english": "Nothing",
+        "hebrew_spoken": "Rien",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Nothing happened.",
+        "hebrew_spoken_example": "Rien ne s'est passé."
+    },
+    {
+        "english": "Each one",
+        "hebrew_spoken": "Chacun",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Each one has their opinion.",
+        "hebrew_spoken_example": "Chacun a son opinion."
+    },
+    {
+        "english": "Each one",
+        "hebrew_spoken": "Chacune",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Each of the girls received a gift.",
+        "hebrew_spoken_example": "Chacune des filles a reçu un cadeau."
+    },
+    {
+        "english": "Several",
+        "hebrew_spoken": "Plusieurs",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Several came.",
+        "hebrew_spoken_example": "Plusieurs sont venus."
+    },
+    {
+        "english": "Everything",
+        "hebrew_spoken": "Tout",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Everything is ready.",
+        "hebrew_spoken_example": "Tout est prêt."
+    },
+    {
+        "english": "All",
+        "hebrew_spoken": "Tous",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "All agree.",
+        "hebrew_spoken_example": "Tous sont d'accord."
+    },
+    {
+        "english": "All",
+        "hebrew_spoken": "Toutes",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "All women are invited.",
+        "hebrew_spoken_example": "Toutes les femmes sont invitées."
+    },
+    {
+        "english": "Some",
+        "hebrew_spoken": "Certains",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Some prefer tea.",
+        "hebrew_spoken_example": "Certains préfèrent le thé."
+    },
+    {
+        "english": "Some",
+        "hebrew_spoken": "Certaines",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Some people are absent.",
+        "hebrew_spoken_example": "Certaines personnes sont absentes."
+    },
+    {
+        "english": "Another one",
+        "hebrew_spoken": "Un autre",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "I want another one.",
+        "hebrew_spoken_example": "J'en veux un autre."
+    },
+    {
+        "english": "Another one",
+        "hebrew_spoken": "Une autre",
+        "word_type": "Indefinite Pronouns",
+        "lesson": "Lesson 3",
+        "english_example": "Give me another chance.",
+        "hebrew_spoken_example": "Donne-moi une autre chance."
+    },
+    {
+        "english": "Who",
+        "hebrew_spoken": "Qui",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "Who is it?",
+        "hebrew_spoken_example": "Qui est-ce ?"
+    },
+    {
+        "english": "What",
+        "hebrew_spoken": "Que/Qu'est-ce que",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "What are you doing?",
+        "hebrew_spoken_example": "Que fais-tu ?"
+    },
+    {
+        "english": "What",
+        "hebrew_spoken": "Quoi",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "What are you talking about?",
+        "hebrew_spoken_example": "De quoi parles-tu ?"
+    },
+    {
+        "english": "Which one",
+        "hebrew_spoken": "Lequel",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "Which one do you prefer?",
+        "hebrew_spoken_example": "Lequel préfères-tu ?"
+    },
+    {
+        "english": "Which one",
+        "hebrew_spoken": "Laquelle",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "Which one is yours?",
+        "hebrew_spoken_example": "Laquelle est la tienne ?"
+    },
+    {
+        "english": "Which ones",
+        "hebrew_spoken": "Lesquels",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "Which ones did you choose?",
+        "hebrew_spoken_example": "Lesquels as-tu choisis ?"
+    },
+    {
+        "english": "Which ones",
+        "hebrew_spoken": "Lesquelles",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "Which ones are available?",
+        "hebrew_spoken_example": "Lesquelles sont disponibles ?"
+    },
+    {
+        "english": "How many/much",
+        "hebrew_spoken": "Combien",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "How much does this book cost?",
+        "hebrew_spoken_example": "Combien coûte ce livre ?"
+    },
+    {
+        "english": "Where",
+        "hebrew_spoken": "Où",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "Where do you live?",
+        "hebrew_spoken_example": "Où habites-tu ?"
+    },
+    {
+        "english": "When",
+        "hebrew_spoken": "Quand",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "When is he arriving?",
+        "hebrew_spoken_example": "Quand arrive-t-il ?"
+    },
+    {
+        "english": "How",
+        "hebrew_spoken": "Comment",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "How are you?",
+        "hebrew_spoken_example": "Comment vas-tu ?"
+    },
+    {
+        "english": "Why",
+        "hebrew_spoken": "Pourquoi",
+        "word_type": "Interrogative Pronouns",
+        "lesson": "Lesson 4",
+        "english_example": "Why are you late?",
+        "hebrew_spoken_example": "Pourquoi es-tu en retard ?"
+    },
+    {
+        "english": "My",
+        "hebrew_spoken": "Mon/Ma/Mes",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "My cat is sleeping.",
+        "hebrew_spoken_example": "Mon chat dort."
+    },
+    {
+        "english": "Your",
+        "hebrew_spoken": "Ton/Ta/Tes",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Your idea is brilliant.",
+        "hebrew_spoken_example": "Ton idée est brillante."
+    },
+    {
+        "english": "His/Her/Its",
+        "hebrew_spoken": "Son/Sa/Ses",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "His/Her car is new.",
+        "hebrew_spoken_example": "Sa voiture est neuve."
+    },
+    {
+        "english": "Our",
+        "hebrew_spoken": "Notre/Nos",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Our house is big.",
+        "hebrew_spoken_example": "Notre maison est grande."
+    },
+    {
+        "english": "Your",
+        "hebrew_spoken": "Votre/Vos",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Your work is excellent.",
+        "hebrew_spoken_example": "Votre travail est excellent."
+    },
+    {
+        "english": "Their",
+        "hebrew_spoken": "Leur/Leurs",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Their children are nice.",
+        "hebrew_spoken_example": "Leurs enfants sont gentils."
+    },
+    {
+        "english": "Mine",
+        "hebrew_spoken": "Le mien/La mienne/Les miens/Les miennes",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Mine is blue.",
+        "hebrew_spoken_example": "Le mien est bleu."
+    },
+    {
+        "english": "Yours",
+        "hebrew_spoken": "Le tien/La tienne/Les tiens/Les tiennes",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Yours is bigger.",
+        "hebrew_spoken_example": "La tienne est plus grande."
+    },
+    {
+        "english": "His/Hers/Its",
+        "hebrew_spoken": "Le sien/La sienne/Les siens/Les siennes",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "His/Hers is broken.",
+        "hebrew_spoken_example": "Le sien est cassé."
+    },
+    {
+        "english": "Ours",
+        "hebrew_spoken": "Le nôtre/La nôtre/Les nôtres",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Ours are better.",
+        "hebrew_spoken_example": "Les nôtres sont meilleurs."
+    },
+    {
+        "english": "Yours",
+        "hebrew_spoken": "Le vôtre/La vôtre/Les vôtres",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Yours is magnificent.",
+        "hebrew_spoken_example": "Le vôtre est magnifique."
+    },
+    {
+        "english": "Theirs",
+        "hebrew_spoken": "Le leur/La leur/Les leurs",
+        "word_type": "Possessive Pronouns & Adjectives",
+        "lesson": "Lesson 5",
+        "english_example": "Theirs is more expensive.",
+        "hebrew_spoken_example": "La leur est plus chère."
+    },
+    {
+        "english": "To/At",
+        "hebrew_spoken": "À",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "I'm going to Paris.",
+        "hebrew_spoken_example": "Je vais à Paris."
+    },
+    {
+        "english": "From/Of",
+        "hebrew_spoken": "De",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "I come from Lyon.",
+        "hebrew_spoken_example": "Je viens de Lyon."
+    },
+    {
+        "english": "In",
+        "hebrew_spoken": "Dans",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "The book is in the bag.",
+        "hebrew_spoken_example": "Le livre est dans le sac."
+    },
+    {
+        "english": "On",
+        "hebrew_spoken": "Sur",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "The cat is on the table.",
+        "hebrew_spoken_example": "Le chat est sur la table."
+    },
+    {
+        "english": "Under",
+        "hebrew_spoken": "Sous",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "The pen is under the notebook.",
+        "hebrew_spoken_example": "Le stylo est sous le cahier."
+    },
+    {
+        "english": "In front of",
+        "hebrew_spoken": "Devant",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "The car is in front of the house.",
+        "hebrew_spoken_example": "La voiture est devant la maison."
+    },
+    {
+        "english": "Behind",
+        "hebrew_spoken": "Derrière",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "The garden is behind the school.",
+        "hebrew_spoken_example": "Le jardin est derrière l'école."
+    },
+    {
+        "english": "Between",
+        "hebrew_spoken": "Entre",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "Paris is between Lyon and Lille.",
+        "hebrew_spoken_example": "Paris est entre Lyon et Lille."
+    },
+    {
+        "english": "Among",
+        "hebrew_spoken": "Parmi",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "He is the best among his friends.",
+        "hebrew_spoken_example": "Il est le meilleur parmi ses amis."
+    },
+    {
+        "english": "With",
+        "hebrew_spoken": "Avec",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "I'm going to the movies with Marie.",
+        "hebrew_spoken_example": "Je vais au cinéma avec Marie."
+    },
+    {
+        "english": "Without",
+        "hebrew_spoken": "Sans",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "He went out without an umbrella.",
+        "hebrew_spoken_example": "Il est sorti sans parapluie."
+    },
+    {
+        "english": "For",
+        "hebrew_spoken": "Pour",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "This gift is for you.",
+        "hebrew_spoken_example": "Ce cadeau est pour toi."
+    },
+    {
+        "english": "Against",
+        "hebrew_spoken": "Contre",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "The bike is leaning against the wall.",
+        "hebrew_spoken_example": "Le vélo est appuyé contre le mur."
+    },
+    {
+        "english": "During",
+        "hebrew_spoken": "Pendant",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "I slept during the movie.",
+        "hebrew_spoken_example": "J'ai dormi pendant le film."
+    },
+    {
+        "english": "Since",
+        "hebrew_spoken": "Depuis",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "I've lived here for three years.",
+        "hebrew_spoken_example": "J'habite ici depuis trois ans."
+    },
+    {
+        "english": "Until",
+        "hebrew_spoken": "Jusqu'à",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "The store is open until 8 PM.",
+        "hebrew_spoken_example": "Le magasin est ouvert jusqu'à 20h."
+    },
+    {
+        "english": "Towards",
+        "hebrew_spoken": "Vers",
+        "word_type": "Prepositions",
+        "lesson": "Lesson 6",
+        "english_example": "He's walking towards the train station.",
+        "hebrew_spoken_example": "Il marche vers la gare."
+    },
+    {
+        "english": "And",
+        "hebrew_spoken": "Et",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "Pierre and Marie are friends.",
+        "hebrew_spoken_example": "Pierre et Marie sont amis."
+    },
+    {
+        "english": "But",
+        "hebrew_spoken": "Mais",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "I like coffee but not tea.",
+        "hebrew_spoken_example": "J'aime le café mais pas le thé."
+    },
+    {
+        "english": "Or",
+        "hebrew_spoken": "Ou",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "Do you want tea or coffee?",
+        "hebrew_spoken_example": "Tu veux du thé ou du café ?"
+    },
+    {
+        "english": "Because/For",
+        "hebrew_spoken": "Car",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "He is happy because he succeeded.",
+        "hebrew_spoken_example": "Il est content car il a réussi."
+    },
+    {
+        "english": "Therefore/So",
+        "hebrew_spoken": "Donc",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "It's raining, so I'm taking an umbrella.",
+        "hebrew_spoken_example": "Il pleut, donc je prends un parapluie."
+    },
+    {
+        "english": "Neither/Nor",
+        "hebrew_spoken": "Ni",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "I like neither coffee nor tea.",
+        "hebrew_spoken_example": "Je n'aime ni le café ni le thé."
+    },
+    {
+        "english": "Because",
+        "hebrew_spoken": "Parce que",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "I'm staying home because it's raining.",
+        "hebrew_spoken_example": "Je reste à la maison parce qu'il pleut."
+    },
+    {
+        "english": "When",
+        "hebrew_spoken": "Quand",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "Call me when you arrive.",
+        "hebrew_spoken_example": "Appelle-moi quand tu arrives."
+    },
+    {
+        "english": "If",
+        "hebrew_spoken": "Si",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "I'll come if I have time.",
+        "hebrew_spoken_example": "Je viendrai si j'ai le temps."
+    },
+    {
+        "english": "Although",
+        "hebrew_spoken": "Bien que",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "Although he is rich, he lives simply.",
+        "hebrew_spoken_example": "Bien qu'il soit riche, il vit simplement."
+    },
+    {
+        "english": "So that",
+        "hebrew_spoken": "Pour que",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "I speak slowly so that you understand.",
+        "hebrew_spoken_example": "Je parle lentement pour que tu comprennes."
+    },
+    {
+        "english": "While",
+        "hebrew_spoken": "Tandis que",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "He works while she rests.",
+        "hebrew_spoken_example": "Il travaille tandis qu'elle se repose."
+    },
+    {
+        "english": "As/Since",
+        "hebrew_spoken": "Comme",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "Since it's raining, I'm staying home.",
+        "hebrew_spoken_example": "Comme il pleut, je reste chez moi."
+    },
+    {
+        "english": "Before",
+        "hebrew_spoken": "Avant que",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "Finish your work before it's too late.",
+        "hebrew_spoken_example": "Finis ton travail avant qu'il soit trop tard."
+    },
+    {
+        "english": "After",
+        "hebrew_spoken": "Après que",
+        "word_type": "Coordinating Conjunctions",
+        "lesson": "Lesson 7",
+        "english_example": "After he left, we discussed.",
+        "hebrew_spoken_example": "Après qu'il soit parti, nous avons discuté."
+    },
+    {
+        "english": "Well",
+        "hebrew_spoken": "Bien",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "She speaks French well.",
+        "hebrew_spoken_example": "Elle parle bien français."
+    },
+    {
+        "english": "Badly",
+        "hebrew_spoken": "Mal",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "He slept badly.",
+        "hebrew_spoken_example": "Il a mal dormi."
+    },
+    {
+        "english": "Quickly",
+        "hebrew_spoken": "Vite",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "She walks quickly.",
+        "hebrew_spoken_example": "Elle marche vite."
+    },
+    {
+        "english": "Slowly",
+        "hebrew_spoken": "Lentement",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "He eats slowly.",
+        "hebrew_spoken_example": "Il mange lentement."
+    },
+    {
+        "english": "A lot/Much",
+        "hebrew_spoken": "Beaucoup",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "I like it a lot.",
+        "hebrew_spoken_example": "Je l'aime beaucoup."
+    },
+    {
+        "english": "Little",
+        "hebrew_spoken": "Peu",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "He eats little.",
+        "hebrew_spoken_example": "Il mange peu."
+    },
+    {
+        "english": "Too much",
+        "hebrew_spoken": "Trop",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "You work too much.",
+        "hebrew_spoken_example": "Tu travailles trop."
+    },
+    {
+        "english": "Enough",
+        "hebrew_spoken": "Assez",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "It's big enough.",
+        "hebrew_spoken_example": "C'est assez grand."
+    },
+    {
+        "english": "Here",
+        "hebrew_spoken": "Ici",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "Come here!",
+        "hebrew_spoken_example": "Viens ici !"
+    },
+    {
+        "english": "There",
+        "hebrew_spoken": "Là",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "Put it there.",
+        "hebrew_spoken_example": "Mets-le là."
+    },
+    {
+        "english": "Everywhere",
+        "hebrew_spoken": "Partout",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "I looked for you everywhere.",
+        "hebrew_spoken_example": "Je t'ai cherché partout."
+    },
+    {
+        "english": "Today",
+        "hebrew_spoken": "Aujourd'hui",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "I'm busy today.",
+        "hebrew_spoken_example": "Je suis occupé aujourd'hui."
+    },
+    {
+        "english": "Tomorrow",
+        "hebrew_spoken": "Demain",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "See you tomorrow!",
+        "hebrew_spoken_example": "À demain !"
+    },
+    {
+        "english": "Yesterday",
+        "hebrew_spoken": "Hier",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "I saw him yesterday.",
+        "hebrew_spoken_example": "Je l'ai vu hier."
+    },
+    {
+        "english": "Now",
+        "hebrew_spoken": "Maintenant",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "Do it now.",
+        "hebrew_spoken_example": "Fais-le maintenant."
+    },
+    {
+        "english": "Often",
+        "hebrew_spoken": "Souvent",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "He often goes to the movies.",
+        "hebrew_spoken_example": "Il va souvent au cinéma."
+    },
+    {
+        "english": "Sometimes",
+        "hebrew_spoken": "Parfois",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "She sometimes comes to see me.",
+        "hebrew_spoken_example": "Elle vient parfois me voir."
+    },
+    {
+        "english": "Always",
+        "hebrew_spoken": "Toujours",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "He is always late.",
+        "hebrew_spoken_example": "Il est toujours en retard."
+    },
+    {
+        "english": "Never",
+        "hebrew_spoken": "Jamais",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "I never drink alcohol.",
+        "hebrew_spoken_example": "Je ne bois jamais d'alcool."
+    },
+    {
+        "english": "Rarely",
+        "hebrew_spoken": "Rarement",
+        "word_type": "Adverbs",
+        "lesson": "Lesson 8",
+        "english_example": "She rarely goes out in the evening.",
+        "hebrew_spoken_example": "Elle sort rarement le soir."
+    },
+    {
+        "english": "All",
+        "hebrew_spoken": "Tout/Tous/Toute/Toutes",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "All the students are present.",
+        "hebrew_spoken_example": "Tous les étudiants sont présents."
+    },
+    {
+        "english": "Each",
+        "hebrew_spoken": "Chaque",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "Each day is different.",
+        "hebrew_spoken_example": "Chaque jour est différent."
+    },
+    {
+        "english": "Several",
+        "hebrew_spoken": "Plusieurs",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "I have several ideas.",
+        "hebrew_spoken_example": "J'ai plusieurs idées."
+    },
+    {
+        "english": "A few",
+        "hebrew_spoken": "Quelques",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "I have a few questions.",
+        "hebrew_spoken_example": "J'ai quelques questions."
+    },
+    {
+        "english": "Some",
+        "hebrew_spoken": "Certains/Certaines",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "Some books are interesting.",
+        "hebrew_spoken_example": "Certains livres sont intéressants."
+    },
+    {
+        "english": "None/No",
+        "hebrew_spoken": "Aucun/Aucune",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "No student is absent.",
+        "hebrew_spoken_example": "Aucun étudiant n'est absent."
+    },
+    {
+        "english": "Many/Much",
+        "hebrew_spoken": "Beaucoup de",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "He has many friends.",
+        "hebrew_spoken_example": "Il a beaucoup d'amis."
+    },
+    {
+        "english": "Little/Few",
+        "hebrew_spoken": "Peu de",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "I have little time.",
+        "hebrew_spoken_example": "J'ai peu de temps."
+    },
+    {
+        "english": "Too many/much",
+        "hebrew_spoken": "Trop de",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "You have too much work.",
+        "hebrew_spoken_example": "Tu as trop de travail."
+    },
+    {
+        "english": "Enough",
+        "hebrew_spoken": "Assez de",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "We have enough food.",
+        "hebrew_spoken_example": "Nous avons assez de nourriture."
+    },
+    {
+        "english": "Most of",
+        "hebrew_spoken": "La plupart des",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "Most people are nice.",
+        "hebrew_spoken_example": "La plupart des gens sont gentils."
+    },
+    {
+        "english": "A little",
+        "hebrew_spoken": "Un peu de",
+        "word_type": "Quantifiers",
+        "lesson": "Lesson 9",
+        "english_example": "I would like a little coffee.",
+        "hebrew_spoken_example": "Je voudrais un peu de café."
+    },
+    {
+        "english": "Can/May",
+        "hebrew_spoken": "Pouvoir",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10 ",
+        "english_example": "I can help you.",
+        "hebrew_spoken_example": "Je peux t'aider."
+    },
+    {
+        "english": "Must/Should",
+        "hebrew_spoken": "Devoir",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10 ",
+        "english_example": "You must study.",
+        "hebrew_spoken_example": "Tu dois étudier."
+    },
+    {
+        "english": "Want",
+        "hebrew_spoken": "Vouloir",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10",
+        "english_example": "They want to leave.",
+        "hebrew_spoken_example": "Ils veulent partir."
+    },
+    {
+        "english": "Know how to",
+        "hebrew_spoken": "Savoir",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10",
+        "english_example": "She knows how to swim.",
+        "hebrew_spoken_example": "Elle sait nager."
+    },
+    {
+        "english": "Need to/Must",
+        "hebrew_spoken": "Falloir",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10",
+        "english_example": "One must work.",
+        "hebrew_spoken_example": "Il faut travailler."
+    },
+    {
+        "english": "Like",
+        "hebrew_spoken": "Aimer",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10",
+        "english_example": "I like to travel.",
+        "hebrew_spoken_example": "J'aime voyager."
+    },
+    {
+        "english": "Hope",
+        "hebrew_spoken": "Espérer",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10",
+        "english_example": "I hope to see you soon.",
+        "hebrew_spoken_example": "J'espère te voir bientôt."
+    },
+    {
+        "english": "Allow to",
+        "hebrew_spoken": "Permettre de",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10",
+        "english_example": "That allows me to progress.",
+        "hebrew_spoken_example": "Cela me permet de progresser."
+    },
+    {
+        "english": "Try to",
+        "hebrew_spoken": "Essayer de",
+        "word_type": "Modal Verbs",
+        "lesson": "Lesson 10",
+        "english_example": "I'm trying to understand.",
+        "hebrew_spoken_example": "J'essaie de comprendre."
+    },
+    {
+        "english": "More...than",
+        "hebrew_spoken": "Plus...que",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "Pierre is taller than Paul.",
+        "hebrew_spoken_example": "Pierre est plus grand que Paul."
+    },
+    {
+        "english": "Less...than",
+        "hebrew_spoken": "Moins...que",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "This book is less expensive than that one.",
+        "hebrew_spoken_example": "Ce livre est moins cher que celui-là."
+    },
+    {
+        "english": "As...as",
+        "hebrew_spoken": "Aussi...que",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "She is as intelligent as him.",
+        "hebrew_spoken_example": "Elle est aussi intelligente que lui."
+    },
+    {
+        "english": "The most",
+        "hebrew_spoken": "Le/La plus",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "It's the most beautiful landscape.",
+        "hebrew_spoken_example": "C'est le plus beau paysage."
+    },
+    {
+        "english": "The least",
+        "hebrew_spoken": "Le/La moins",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "It's the least difficult of the questions.",
+        "hebrew_spoken_example": "C'est la moins difficile des questions."
+    },
+    {
+        "english": "Better",
+        "hebrew_spoken": "Meilleur(e)",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "This wine is better.",
+        "hebrew_spoken_example": "Ce vin est meilleur."
+    },
+    {
+        "english": "The best",
+        "hebrew_spoken": "Le/La meilleur(e)",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "It's the best restaurant in the city.",
+        "hebrew_spoken_example": "C'est le meilleur restaurant de la ville."
+    },
+    {
+        "english": "Worse",
+        "hebrew_spoken": "Pire",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "The situation is worse than yesterday.",
+        "hebrew_spoken_example": "La situation est pire qu'hier."
+    },
+    {
+        "english": "The worst",
+        "hebrew_spoken": "Le/La pire",
+        "word_type": "Comparatives and Superlatives",
+        "lesson": "Lesson 11",
+        "english_example": "It's the worst mistake of my life.",
+        "hebrew_spoken_example": "C'est la pire erreur de ma vie."
+    },
+    {
+        "english": "Not",
+        "hebrew_spoken": "Ne...pas",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "I don't speak English.",
+        "hebrew_spoken_example": "Je ne parle pas anglais."
+    },
+    {
+        "english": "No longer/Not anymore",
+        "hebrew_spoken": "Ne...plus",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "He no longer works here.",
+        "hebrew_spoken_example": "Il ne travaille plus ici."
+    },
+    {
+        "english": "Never",
+        "hebrew_spoken": "Ne...jamais",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "She never eats meat.",
+        "hebrew_spoken_example": "Elle ne mange jamais de viande."
+    },
+    {
+        "english": "Nothing",
+        "hebrew_spoken": "Ne...rien",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "I understood nothing.",
+        "hebrew_spoken_example": "Je n'ai rien compris."
+    },
+    {
+        "english": "Nobody",
+        "hebrew_spoken": "Ne...personne",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "She saw nobody.",
+        "hebrew_spoken_example": "Elle n'a vu personne."
+    },
+    {
+        "english": "None/Not any",
+        "hebrew_spoken": "Ne...aucun(e)",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "He has no chance of winning.",
+        "hebrew_spoken_example": "Il n'a aucune chance de gagner."
+    },
+    {
+        "english": "Neither...nor",
+        "hebrew_spoken": "Ne...ni...ni",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "He likes neither coffee nor tea.",
+        "hebrew_spoken_example": "Il n'aime ni le café ni le thé."
+    },
+    {
+        "english": "Only",
+        "hebrew_spoken": "Ne...que",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "I only drink water.",
+        "hebrew_spoken_example": "Je ne bois que de l'eau."
+    },
+    {
+        "english": "Hardly",
+        "hebrew_spoken": "Ne...guère",
+        "word_type": "Negation",
+        "lesson": "Lesson 12",
+        "english_example": "It's hardly likely that he'll come.",
+        "hebrew_spoken_example": "Il n'est guère probable qu'il vienne."
+    },
+    {
+        "english": "Who/Which/That",
+        "hebrew_spoken": "Qui",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "The man who is speaking is my friend.",
+        "hebrew_spoken_example": "L'homme qui parle est mon ami."
+    },
+    {
+        "english": "Whom/Which/That",
+        "hebrew_spoken": "Que",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "The book that I'm reading is interesting.",
+        "hebrew_spoken_example": "Le livre que je lis est intéressant."
+    },
+    {
+        "english": "Whose/Of which",
+        "hebrew_spoken": "Dont",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "The woman whom I'm talking about is a lawyer.",
+        "hebrew_spoken_example": "La femme dont je parle est avocate."
+    },
+    {
+        "english": "Where/When",
+        "hebrew_spoken": "Où",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "The city where I live is beautiful.",
+        "hebrew_spoken_example": "La ville où j'habite est belle."
+    },
+    {
+        "english": "Which",
+        "hebrew_spoken": "Lequel/Laquelle/Lesquels/Lesquelles",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "The house in which I grew up.",
+        "hebrew_spoken_example": "La maison dans laquelle j'ai grandi."
+    },
+    {
+        "english": "What (subject)",
+        "hebrew_spoken": "Ce qui",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "What I like is its simplicity.",
+        "hebrew_spoken_example": "Ce qui me plaît, c'est sa simplicité."
+    },
+    {
+        "english": "What (object)",
+        "hebrew_spoken": "Ce que",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "I don't understand what you're saying.",
+        "hebrew_spoken_example": "Je ne comprends pas ce que tu dis."
+    },
+    {
+        "english": "What (with de)",
+        "hebrew_spoken": "Ce dont",
+        "word_type": "Relative Pronouns",
+        "lesson": "Lesson 13",
+        "english_example": "I remember what we talked about.",
+        "hebrew_spoken_example": "Je me souviens de ce dont nous avons parlé."
+    }
+]

@@ -10,8 +10,8 @@ export const CATEGORIES = [
   { value: "verbs_plural", text: "Verbs (Plural)" },
   { value: "nouns", text: "Nouns" },
   { value: "adjectives", text: "Adjectives" },
+  { value: "grammar", text: "Grammar" },
   // { value: "basics", text: "Basics" }, 
-  // { value: "grammar", text: "Grammar" },
 ];
 
 export const SOUND_THEMES = [

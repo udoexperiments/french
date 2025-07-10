@@ -14,9 +14,9 @@ class DataService {
       console.error("Error loading data:", error);
       // Fallback data for testing
       const fallbackData = [
-        { english: "Hello", hebrew_spoken: "Shalom", hebrew_letters: "שלום", lesson: 1 },
-        { english: "Goodbye", hebrew_spoken: "Lehitraot", hebrew_letters: "להתראות", lesson: 1 },
-        { english: "Thank you", hebrew_spoken: "Toda", hebrew_letters: "תודה", lesson: 1 },
+        { english: "Hello", hebrew_spoken: "Bonjour", hebrew_letters: " ", lesson: 1 },
+        { english: "Goodbye", hebrew_spoken: "Au revoir", hebrew_letters: " ", lesson: 1 },
+        { english: "Thank you", hebrew_spoken: "Merci", hebrew_letters: " ", lesson: 1 },
       ];
       StateManager.set('data', fallbackData);
       return fallbackData;
